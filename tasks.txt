@@ -1,0 +1,12 @@
+1. Finish getting all the song track IDs
+2. Retrieve all the song attributes using https://developer.spotify.com/documentation/web-api/reference/get-several-audio-features
+3. Plots:
+    - time series for each of the traits
+    - correlation of "weeks on board" and each traits
+    - correlation of "peak rank" and each traits
+    - correlation matrix between each pair of song traits
+    - histograms of the traits by decade (e.g. "what's the average danceability of the top songs in the 1970s?")
+    - https://towardsdatascience.com/k-means-clustering-using-spotify-song-features-9eb7d53d105c
+    - color coding songs by genre over time to see if certain genre rises to the top?
+    - unsupervised learning:
+        - cluster songs

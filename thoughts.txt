@@ -1,0 +1,40 @@
+# First, get the Spotify IDs of the songs in the CSV:
+checked_songs = {} # spotify_id : True if we looked it up
+for line in charts.csv:
+    track_info = get_track_info(song_name, artist_name)
+
+
+
+def search_for_track(token, track_name, artist):
+    url = "https://api.spotify.com/v1/search"
+    headers = get_auth_header(token)
+    #query = f"?q=name={track_name}year={year}artist={artist}&type=track&limit=1"
+
+    query = f"?q={track_name}%20{artist}%20&type=track&limit=1"
+
+    query_url = url + query
+    result = get(query_url, headers=headers)
+    # print("Result Status Code: ", result.status_code)
+    # print("Whole Result: ", result)
+    # print("Result Headers: ", result.headers)
+
+    if result.status_code != 200 and result.status_code != 429:
+        print(f"Ran into a {result.status_code}, with track = {track_name} and artist = {artist}.")
+        time.sleep(10)
+        return None # just don't feel like handling this, we'll still get a lot of data anyway
+
+    wait_adder = 2
+    while result.status_code == 429:
+        print("Ran into a 429... need to wait...")
+        time_to_wait = result.headers["Retry-After"]
+        time.sleep(time_to_wait + wait_adder)    # Try waiting extra time if we sent too many
+        wait_adder += 10                         # Wait longer if we need to
+        result = get(query_url, headers=headers)
+
+    json_result = json.loads(result.content)['tracks']['items']
+    # print(json_result)
+    if len(json_result) == 0:
+        print("No track with this name exists...")
+        return None
+
+    return json_result[0]

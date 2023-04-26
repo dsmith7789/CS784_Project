@@ -1,0 +1,500 @@
+given_date,given_rank,track_id,spotify_artist,given_artist,spotify_title,given_title,given_last_week,given_peak_rank,given_weeks_on_board
+2001-09-01,97,55oovDrYcI8EzQxg7mHVrD,Lionel Richie,Lionel Richie,Angel - Metro Mix Radio Edit,Angel,98,70,18
+2001-09-01,98,3NOq1Gpiy4KwDni8NhOmHQ,Bubba Sparxxx,Bubba Sparxxx,Ugly,Ugly,,98,1
+2001-09-01,99,514AneEN1C63hmnVNC4dLJ,Samantha Mumba,Samantha Mumba,Baby Come On Over (This Is Our Night),"Baby, Come Over (This Is Our Night)",100,49,17
+2001-09-01,100,0pm08BZksjfIZmXcPckvEc,Bow Wow,Lil Bow Wow,Ghetto Girls,Ghetto Girls,91,91,3
+2001-08-25,1,0KQx6HOpJueiSkztcS0r7D,Alicia Keys,Alicia Keys,Fallin',Fallin',1,1,11
+2001-08-25,2,6MLsahMK3VvH9NUwXOktdS,Jennifer Lopez,Jennifer Lopez Featuring Ja Rule,I'm Real (feat. Ja Rule) - Murder Remix,I'm Real,4,2,8
+2001-08-25,3,5ncKa5K5qxoRDIn5p7Qqmm,The Karaoke Crew,Eve Featuring Gwen Stefani,Let Me Blow Ya Mind (As Made Famous By Eve Featuring Gwen Stefani),Let Me Blow Ya Mind,2,2,18
+2001-08-25,4,4zYTZvtcww7OWKie7fxA9E,Blu Cantrell,Blu Cantrell,Hit 'Em Up Style (Oops!),Hit 'Em Up Style (Oops!),3,2,17
+2001-08-25,5,2QsZVnbWVSjKMXK6K3uRBL,Usher,Usher,U Remind Me,U Remind Me,6,1,11
+2001-08-25,6,2VbmTtZn6SdR33FGklXhVU,Off The Record Karaoke,Jagged Edge With Nelly,Where the Party at (In the Style of Jagged Edge - Nelly) [Karaoke Version With Lead Vocal],Where The Party At,7,6,13
+2001-08-25,7,25CMmGsl22APKhfuj4Tp7j,Staind,Staind,It's Been Awhile,It's Been Awhile,12,7,20
+2001-08-25,8,0WdaRmHBMhUoLPqHLdb9yg,O-Town,O-Town,All or Nothing,All Or Nothing,8,3,12
+2001-08-25,9,2hKdd3qO7cWr2Jo0Bcs0MA,Train,Train,Drops of Jupiter (Tell Me),Drops Of Jupiter (Tell Me),10,5,24
+2001-08-25,10,0wqOReZDnrefefEsrIGeR4,Lifehouse,Lifehouse,Hanging By A Moment,Hanging By A Moment,11,2,29
+2001-08-25,11,4w9soAM7IrmYDhSXLp14p6,Jack Black,112,Peaches,Peaches & Cream,13,4,20
+2001-08-25,12,43zr9kKkeiQrshvYuvNtfM,Janet Jackson,Janet,Someone To Call My Lover,Someone To Call My Lover,14,12,10
+2001-08-25,13,41nT1Sp6ChR65FbsdLlFHW,Destiny's Child,Destiny's Child,Bootylicious,Bootylicious,5,1,12
+2001-08-25,14,5ZsPy9wHH733NlU6c4v2Hi,Sugar Ray,Sugar Ray,When It's Over - David Kahne Main,When It's Over,15,14,13
+2001-08-25,15,1tJkic0TURTCXw3rBhYgWu,City High,City High,What Would You Do?,What Would You Do?,17,8,23
+2001-08-25,16,7nnWIPM5hwE3DaUBkvOIpy,Incubus,Incubus,Drive,Drive,16,9,28
+2001-08-25,17,0UzsDmdpw0Q14KU4hieQss,Craig David,Craig David,Fill Me In,Fill Me In,18,17,12
+2001-08-25,18,4h5KBcltGefua73AUPYps7,JAY-Z,JAY-Z,Izzo (H.O.V.A.),Izzo (H.O.V.A.),22,18,5
+2001-08-25,19,2WQAknZHrJAEQOFXe0F44P,Blake Shelton,Blake Shelton,Austin,Austin,20,19,14
+2001-08-25,20,7teF2kwC3GL00mQfwtxzo9,The Isley Brothers,The Isley Brothers Featuring Ronald Isley,"For the Love of You, Pts. 1 & 2",Contagious,21,20,7
+2001-08-25,21,5ONjjxFYoBzp7v2PMHBAvT,ProTracks (Karaoke),"Missy ""Misdemeanor"" Elliott","One Minute Man - In the Style of Missy ""Misdemeanor"" Elliott (Karaoke Version Teaching Vocal)",One Minute Man,26,21,7
+2001-08-25,22,65KzDXZm9aQt8sA1k0ZVG3,Dave Matthews Band,Dave Matthews Band,The Space Between,The Space Between,25,22,15
+2001-08-25,23,3aw9iWUQ3VrPQltgwvN9Xu,Mary J. Blige,Mary J. Blige,Family Affair,Family Affair,29,23,5
+2001-08-25,24,5fTFotLuBHdqoO4k8BnxET,Hot Fox Karaoke,Mariah Carey Featuring Cameo,Loverboy (In The Style Of 'Mariah Carey Featuring Cameo'),Loverboy,9,2,10
+2001-08-25,25,4Vx3lC2E2wr3ZlT7pA2jOT,D12,D12,Purple Hills,Purple Hills,19,19,10
+2001-08-25,26,4KoecuyOpZaNFZ0UqVsllc,Uncle Kracker,Uncle Kracker,Follow Me,Follow Me,23,5,25
+2001-08-25,27,3lcC9CnN7Rpo1ugATzmYjY,Ludacris,Ludacris Featuring Nate Dogg,Area Codes,Area Codes,31,27,7
+2001-08-25,28,1RC5Mb0VhnlhnMlFDnrvE0,Smash Mouth,Smash Mouth,I'm A Believer - Radio Edit,I'm A Believer,32,28,6
+2001-08-25,29,6f67kjvFmXZTA47K8JNVBU,Willa Ford,Willa Ford,I Wanna Be Bad,I Wanna Be Bad,28,22,12
+2001-08-25,30,6j2aNuhJJUnRj6UHcvn5PI,Trick Daddy,Trick Daddy,I'm a Thug,I'm A Thug,46,30,6
+2001-08-25,31,0twRGRH1uG8XGH99X5R9V3,The Wiseguys,The Wiseguys,Start the Commotion,Start The Commotion,39,31,4
+2001-08-25,32,6CBRI05fAHw76JqDk2IRkK,Toby Keith,Toby Keith,I'm Just Talkin' About Tonight,I'm Just Talkin' About Tonight,37,32,11
+2001-08-25,33,0rRboI6IRuGx56Dq3UdYY4,Afroman,Afroman,Because I Got High,Because I Got High,67,33,2
+2001-08-25,34,0Uyh92tLyb9JawG8lmWCzJ,Ginuwine,Ginuwine,Differences,Differences,48,34,5
+2001-08-25,35,0l8YY2QAbkXAUnhAs1RHUF,The Karaoke Channel,"Missy ""Misdemeanor"" Elliott","Get Ur Freak On (Radio Version) (Karaoke Version) - (In The Style Of Missy ""Misdemeanor"" Elliott)",Get Ur Freak On,24,7,23
+2001-08-25,36,2TVSa07y6g3HRn4oLWv57M,Jessica Simpson,Jessica Simpson,Irresistible,Irresistible,27,15,15
+2001-08-25,37,4nqhpXmbCksSZ1I1QUf8Ac,The Karaoke Crew,Nelly Featuring City Spud,Ride Wit Me (As Made Famous by Nelly Featuring City Spud),Ride Wit Me,33,3,27
+2001-08-25,38,751gBcu62kORDelX7FV0mM,Dido,Dido,Thank You,Thank You,34,3,33
+2001-08-25,39,2YhdP9Wq1yH2pshQ6sWnHo,Cyndi Thomson,Cyndi Thomson,What I Really Meant To Say,What I Really Meant To Say,38,38,13
+2001-08-25,40,7qLQR9T8vL638MbPYCDAFk,Keith Urban,Keith Urban,Where The Blacktop Ends,Where The Blacktop Ends,45,40,11
+2001-08-25,41,2eOuL8KesslTLQERQPu11D,Diddy,"P. Diddy, Black Rob & Mark Curry",Bad Boy for Life,Bad Boy For Life,47,41,5
+2001-08-25,42,1UkMAtLU8NxsddE7j4zXGO,American Hi-Fi,American Hi-Fi,Flavor Of The Weak,Flavor Of The Weak,41,41,10
+2001-08-25,43,6X1MOfJSjBT54VcbD1o7vR,Jamie O'Neal,Jamie O'Neal,When I Think About Angels,When I Think About Angels,36,35,12
+2001-08-25,44,4tgeQrPu5xkrnwErym2JsJ,Eve 6,Eve 6,Here's to the Night,Here's To The Night,30,30,12
+2001-08-25,45,34Vn9nKfztyLco9lJazy4j,Lonestar,Lonestar,I'm Already There,I'm Already There,44,24,17
+2001-08-25,46,6IFOw9Ck9mWHRQgw6QrPYx,Erick Sermon,Erick Sermon Featuring Marvin Gaye,Music (feat. Marvin Gaye),Music,40,22,13
+2001-08-25,47,49XSbzWYyB20DTlBtQiZFw,J. Cozier,Jimmy Cozier,She's All I Got - Radio Edit,She's All I Got,35,26,11
+2001-08-25,48,6FLwmdmW77N1Pxb1aWsZmO,Enya,Enya,Only Time,Only Time,52,48,7
+2001-08-25,49,3zjLEJ6EPYJHZRtWGMhMSJ,Montgomery Gentry,Montgomery Gentry,She Couldn't Change Me,She Couldn't Change Me,49,37,21
+2001-08-25,50,6KCOOKsDFfGEiwWZZlEI6O,Lil' Mo,Lil' Mo Featuring Fabolous,Superwoman Pt. II - Rap Version Remix,Superwoman Pt. II,42,11,22
+2001-08-25,51,0cHRuyr1YyvJXTCX5ZeqSO,Jo Dee Messina,Jo Dee Messina,Downtime,Downtime,58,51,11
+2001-08-25,52,0YHBvFhfCJHyP5qfgtiX1o,Jaheim,Jaheim,Just in Case,Just In Case,54,52,9
+2001-08-25,53,650M98AP1WgRo1jJ0snmoI,Luther Vandross,Luther Vandross,Take You Out - Radio Edit,Take You Out,43,26,6
+2001-08-25,54,3e41nkMyqcAwaQCXJVj87G,Brooks & Dunn,Brooks & Dunn,Only In America,Only In America,57,54,6
+2001-08-25,55,0NdEFLohwfZpyncrBCq1ZY,Toya,Toya,I Do!!,I Do!!,55,32,13
+2001-08-25,56,4XRUKxDIn28c7uHEzbGFgj,Backstreet Boys,Backstreet Boys,More Than That,More Than That,53,27,14
+2001-08-25,57,2onNmw7lzEoDRXl46jDO5O,Trisha Yearwood,Trisha Yearwood,I Would've Loved You Anyway,I Would've Loved You Anyway,63,57,4
+2001-08-25,58,0PSZ9G584Ve27GK6ThlY6P,Christina Aguilera,"Christina Aguilera, Lil' Kim, Mya & P!nk",Lady Marmalade - Single Edit,Lady Marmalade,51,1,20
+2001-08-25,59,4gM2BugovNf4bvXdjZODzG,Nelly Furtado,Nelly Furtado,Turn Off The Light,Turn Off The Light,69,59,2
+2001-08-25,60,7ktlRGfo8wQaruyZD8xCii,Chris Cagle,Chris Cagle,Laredo,Laredo,62,60,8
+2001-08-25,61,2rsjgtDbLeSYttYBPL5L1m,Rascal Flatts,Rascal Flatts,While You Loved Me,While You Loved Me,60,60,9
+2001-08-25,62,3PbHle8KhJp6GuO1jLdEmQ,3 Doors Down,3 Doors Down,Be Like That,Be Like That,65,62,5
+2001-08-25,63,1s2khOWzC99udpUaPICLJI,Faith Hill,Faith Hill,There You'll Be - 2007 Remaster,There You'll Be,59,10,14
+2001-08-25,64,5z5ao3FAaVwHk1g7xuOBcB,Fuel,Fuel,Bad Day,Bad Day,64,64,5
+2001-08-25,65,3uD4aRM8QoEAAhwpOke7QU,LFO,LFO,Every Other Time - Radio Edit & Album Version,Every Other Time,,65,1
+2001-08-25,66,0khUsHfJrVCu3Pn4WuzNd5,Tim McGraw,Tim McGraw,Angry All The Time,Angry All The Time,70,66,2
+2001-08-25,67,49aUxrufliNDGj7MTm7pNU,Jill Scott,Jill Scott,The Way,The Way,61,61,8
+2001-08-25,68,7K4Aq4awgYvDKEJdEvvl4j,Fabolous,Fabolous Featuring Nate Dogg,Can't Deny It (feat. Nate Dogg),Can't Deny It,77,68,6
+2001-08-25,69,7xwFOVYwBuLvFquLyfooRp,Ray J,Ray J Featuring Lil' Kim,Wait a Minute (feat. Lil' Kim),Wait A Minute,56,30,14
+2001-08-25,70,44LFap7VrB4356vfbQOZHg,JUVENILE,Juvenile,Set It Off,Set It Off,74,70,3
+2001-08-25,71,55mJleti2WfWEFNFcBduhc,TOOL,Tool,Schism,Schism,68,68,10
+2001-08-25,72,0FpLfrOyHblbDlHUsrPN1N,Busta Rhymes,Violator Featuring Busta Rhymes,What's It Gonna Be?! (feat. Janet Jackson),What It Is,66,63,9
+2001-08-25,73,7yMiX7n9SBvadzox8T5jzT,Gorillaz,Gorillaz,Clint Eastwood,Clint Eastwood,,73,1
+2001-08-25,74,7cFQFr1VpkSp3BTIn7X719,R. Kelly,R. Kelly,Feelin' On Yo Booty,Feelin' On Yo Booty,,74,1
+2001-08-25,75,23qDMWnwf8p0pr5slljB6i,Phil Vassar,Phil Vassar,Six-Pack Summer,Six-Pack Summer,76,75,3
+2001-08-25,76,6ej1QJ8eIYmhsyTlvgDajy,Alan Jackson,Alan Jackson,Where I Come From,Where I Come From,,76,1
+2001-08-25,77,2ydUT1pFhuLDnouelIv4WH,blink-182,Blink-182,The Rock Show,The Rock Show,75,71,5
+2001-08-25,78,5z6xHjCZr7a7AIcy8sPBKy,Alien Ant Farm,Alien Ant Farm,Smooth Criminal,Smooth Criminal,,78,1
+2001-08-25,79,57BrRMwf9LrcmuOsyGilwr,Linkin Park,Linkin Park,Crawling,Crawling,79,79,3
+2001-08-25,80,5LVTzrOs7Ban5EpU9XkGSW,The Delfonics,Dream,Hey! Love,This Is Me,80,39,16
+2001-08-25,81,6dJZY47RgBcd7A9pSsWL6S,Coo Coo Cal,Coo Coo Cal,My Projects,My Projects,81,81,4
+2001-08-25,82,0eEIBDavijQl5u7A4yBpSs,Ameritz Countdown Karaoke,Gigi D'Agostino,I'll Fly with You (L'amour Toujours) [In the Style of Gigi D'agostino] [Karaoke Version],I'll Fly With You (L'amour Toujours),85,82,4
+2001-08-25,83,3TcoHf7nvC8RaDVdfIFjFR,Sara Evans,Sara Evans,I Could Not Ask for More,I Could Not Ask For More,71,35,19
+2001-08-25,84,2423gyT9B3zNqC9ZD8QfSu,Faith Evans,Faith Evans Featuring Carl Thomas,Can't Believe (feat. Carl Thomas),Can't Believe,72,56,17
+2001-08-25,85,0Jc8qF1mUPo1A96HE9QxZz,*NSYNC,'N Sync,Pop,Pop,73,19,13
+2001-08-25,86,4ukCThz76ZkKJzTlmDlKpa,Trick Pony,Trick Pony,On a Night Like This,On A Night Like This,86,86,5
+2001-08-25,87,5rJRKtJzm7qacwYEjsKav6,Lee Ann Womack,Lee Ann Womack,Why They Call It Falling,Why They Call It Falling,78,78,6
+2001-08-25,88,02GwPAncasVL82yC7y2hmN,Petey Pablo,Petey Pablo,Raise Up,Raise Up,88,88,3
+2001-08-25,89,3jZHJO0QAb8sbv71DXOD9J,Matchbox Twenty,matchbox twenty,Mad Season,Mad Season,84,48,17
+2001-08-25,90,6Jvx6HCj3wxWWIs90YqWXj,Nivea,Nivea,Don't Mess With The Radio,Don't Mess With The Radio,90,90,2
+2001-08-25,91,0pm08BZksjfIZmXcPckvEc,Bow Wow,Lil Bow Wow,Ghetto Girls,Ghetto Girls,91,91,2
+2001-08-25,92,3dxDj8pDPlIHCIrUPXuCeG,Darude,Darude,Sandstorm,Sandstorm,83,83,6
+2001-08-25,93,4lyjlRP5xoJKsMqwiz7558,Musiq Soulchild,Musiq Soulchild Featuring Ayana,Girl Next Door,Girl Next Door,,93,1
+2001-08-25,94,23xteU6IlMeNxJ2sYcjHlR,BIA,"Lil Jon & The East Side Boyz Featuring Ludacris, Too Short, Big Kap & Chyna Whyte",BIA BIA (feat. Lil Jon),Bia' Bia',,94,1
+2001-08-25,95,2c7huQpWR29bcXrrvLcG2j,Aaliyah,Aaliyah Featuring Timbaland,We Need A Resolution (feat. Timbaland),We Need A Resolution,82,59,13
+2001-08-25,96,3uMZMYC0GurzpeTf9QvPe0,Ian van Dahl,Ian Van Dahl Featuring Marsha,Castles In The Sky,Castles In The Sky,100,96,4
+2001-08-25,97,154grZhOoDf2FDTnS2BpK6,Brad Paisley,Brad Paisley,Two People Fell in Love,Two People Fell In Love,87,51,18
+2001-08-25,98,55oovDrYcI8EzQxg7mHVrD,Lionel Richie,Lionel Richie,Angel - Metro Mix Radio Edit,Angel,92,70,17
+2001-08-25,99,1PUNthIXityeZlnRLcP7JI,Christina Milian,Christina Milian,AM To PM,AM To PM,,99,1
+2001-08-25,100,514AneEN1C63hmnVNC4dLJ,Samantha Mumba,Samantha Mumba,Baby Come On Over (This Is Our Night),"Baby, Come Over (This Is Our Night)",95,49,16
+2001-08-18,1,0KQx6HOpJueiSkztcS0r7D,Alicia Keys,Alicia Keys,Fallin',Fallin',7,1,10
+2001-08-18,2,5ncKa5K5qxoRDIn5p7Qqmm,The Karaoke Crew,Eve Featuring Gwen Stefani,Let Me Blow Ya Mind (As Made Famous By Eve Featuring Gwen Stefani),Let Me Blow Ya Mind,3,2,17
+2001-08-18,3,4zYTZvtcww7OWKie7fxA9E,Blu Cantrell,Blu Cantrell,Hit 'Em Up Style (Oops!),Hit 'Em Up Style (Oops!),4,2,16
+2001-08-18,4,6MLsahMK3VvH9NUwXOktdS,Jennifer Lopez,Jennifer Lopez Featuring Ja Rule,I'm Real (feat. Ja Rule) - Murder Remix,I'm Real,9,4,7
+2001-08-18,5,41nT1Sp6ChR65FbsdLlFHW,Destiny's Child,Destiny's Child,Bootylicious,Bootylicious,1,1,11
+2001-08-18,6,2QsZVnbWVSjKMXK6K3uRBL,Usher,Usher,U Remind Me,U Remind Me,5,1,10
+2001-08-18,7,2VbmTtZn6SdR33FGklXhVU,Off The Record Karaoke,Jagged Edge With Nelly,Where the Party at (In the Style of Jagged Edge - Nelly) [Karaoke Version With Lead Vocal],Where The Party At,10,7,12
+2001-08-18,8,0WdaRmHBMhUoLPqHLdb9yg,O-Town,O-Town,All or Nothing,All Or Nothing,6,3,11
+2001-08-18,9,5fTFotLuBHdqoO4k8BnxET,Hot Fox Karaoke,Mariah Carey Featuring Cameo,Loverboy (In The Style Of 'Mariah Carey Featuring Cameo'),Loverboy,2,2,9
+2001-08-18,10,2hKdd3qO7cWr2Jo0Bcs0MA,Train,Train,Drops of Jupiter (Tell Me),Drops Of Jupiter (Tell Me),8,5,23
+2001-08-18,11,0wqOReZDnrefefEsrIGeR4,Lifehouse,Lifehouse,Hanging By A Moment,Hanging By A Moment,11,2,28
+2001-08-18,12,25CMmGsl22APKhfuj4Tp7j,Staind,Staind,It's Been Awhile,It's Been Awhile,13,12,19
+2001-08-18,13,4w9soAM7IrmYDhSXLp14p6,Jack Black,112,Peaches,Peaches & Cream,12,4,19
+2001-08-18,14,43zr9kKkeiQrshvYuvNtfM,Janet Jackson,Janet,Someone To Call My Lover,Someone To Call My Lover,14,14,9
+2001-08-18,15,5ZsPy9wHH733NlU6c4v2Hi,Sugar Ray,Sugar Ray,When It's Over - David Kahne Main,When It's Over,16,15,12
+2001-08-18,16,7nnWIPM5hwE3DaUBkvOIpy,Incubus,Incubus,Drive,Drive,17,9,27
+2001-08-18,17,1tJkic0TURTCXw3rBhYgWu,City High,City High,What Would You Do?,What Would You Do?,15,8,22
+2001-08-18,18,0UzsDmdpw0Q14KU4hieQss,Craig David,Craig David,Fill Me In,Fill Me In,18,18,11
+2001-08-18,19,4Vx3lC2E2wr3ZlT7pA2jOT,D12,D12,Purple Hills,Purple Hills,19,19,9
+2001-08-18,20,2WQAknZHrJAEQOFXe0F44P,Blake Shelton,Blake Shelton,Austin,Austin,21,20,13
+2001-08-18,21,7teF2kwC3GL00mQfwtxzo9,The Isley Brothers,The Isley Brothers Featuring Ronald Isley,"For the Love of You, Pts. 1 & 2",Contagious,25,21,6
+2001-08-18,22,4h5KBcltGefua73AUPYps7,JAY-Z,JAY-Z,Izzo (H.O.V.A.),Izzo (H.O.V.A.),27,22,4
+2001-08-18,23,4KoecuyOpZaNFZ0UqVsllc,Uncle Kracker,Uncle Kracker,Follow Me,Follow Me,24,5,24
+2001-08-18,24,0l8YY2QAbkXAUnhAs1RHUF,The Karaoke Channel,"Missy ""Misdemeanor"" Elliott","Get Ur Freak On (Radio Version) (Karaoke Version) - (In The Style Of Missy ""Misdemeanor"" Elliott)",Get Ur Freak On,20,7,22
+2001-08-18,25,65KzDXZm9aQt8sA1k0ZVG3,Dave Matthews Band,Dave Matthews Band,The Space Between,The Space Between,28,25,14
+2001-08-18,26,5ONjjxFYoBzp7v2PMHBAvT,ProTracks (Karaoke),"Missy ""Misdemeanor"" Elliott","One Minute Man - In the Style of Missy ""Misdemeanor"" Elliott (Karaoke Version Teaching Vocal)",One Minute Man,29,26,6
+2001-08-18,27,2TVSa07y6g3HRn4oLWv57M,Jessica Simpson,Jessica Simpson,Irresistible,Irresistible,23,15,14
+2001-08-18,28,6f67kjvFmXZTA47K8JNVBU,Willa Ford,Willa Ford,I Wanna Be Bad,I Wanna Be Bad,22,22,11
+2001-08-18,29,3aw9iWUQ3VrPQltgwvN9Xu,Mary J. Blige,Mary J. Blige,Family Affair,Family Affair,42,29,4
+2001-08-18,30,4tgeQrPu5xkrnwErym2JsJ,Eve 6,Eve 6,Here's to the Night,Here's To The Night,30,30,11
+2001-08-18,31,3lcC9CnN7Rpo1ugATzmYjY,Ludacris,Ludacris Featuring Nate Dogg,Area Codes,Area Codes,44,31,6
+2001-08-18,32,1RC5Mb0VhnlhnMlFDnrvE0,Smash Mouth,Smash Mouth,I'm A Believer - Radio Edit,I'm A Believer,45,32,5
+2001-08-18,33,4nqhpXmbCksSZ1I1QUf8Ac,The Karaoke Crew,Nelly Featuring City Spud,Ride Wit Me (As Made Famous by Nelly Featuring City Spud),Ride Wit Me,26,3,26
+2001-08-18,34,751gBcu62kORDelX7FV0mM,Dido,Dido,Thank You,Thank You,33,3,32
+2001-08-18,35,49XSbzWYyB20DTlBtQiZFw,J. Cozier,Jimmy Cozier,She's All I Got - Radio Edit,She's All I Got,32,26,10
+2001-08-18,36,6X1MOfJSjBT54VcbD1o7vR,Jamie O'Neal,Jamie O'Neal,When I Think About Angels,When I Think About Angels,35,35,11
+2001-08-18,37,6CBRI05fAHw76JqDk2IRkK,Toby Keith,Toby Keith,I'm Just Talkin' About Tonight,I'm Just Talkin' About Tonight,40,37,10
+2001-08-18,38,2YhdP9Wq1yH2pshQ6sWnHo,Cyndi Thomson,Cyndi Thomson,What I Really Meant To Say,What I Really Meant To Say,47,38,12
+2001-08-18,39,0twRGRH1uG8XGH99X5R9V3,The Wiseguys,The Wiseguys,Start the Commotion,Start The Commotion,51,39,3
+2001-08-18,40,6IFOw9Ck9mWHRQgw6QrPYx,Erick Sermon,Erick Sermon Featuring Marvin Gaye,Music (feat. Marvin Gaye),Music,31,22,12
+2001-08-18,41,1UkMAtLU8NxsddE7j4zXGO,American Hi-Fi,American Hi-Fi,Flavor Of The Weak,Flavor Of The Weak,41,41,9
+2001-08-18,42,6KCOOKsDFfGEiwWZZlEI6O,Lil' Mo,Lil' Mo Featuring Fabolous,Superwoman Pt. II - Rap Version Remix,Superwoman Pt. II,37,11,21
+2001-08-18,43,650M98AP1WgRo1jJ0snmoI,Luther Vandross,Luther Vandross,Take You Out - Radio Edit,Take You Out,36,26,5
+2001-08-18,44,34Vn9nKfztyLco9lJazy4j,Lonestar,Lonestar,I'm Already There,I'm Already There,39,24,16
+2001-08-18,45,7qLQR9T8vL638MbPYCDAFk,Keith Urban,Keith Urban,Where The Blacktop Ends,Where The Blacktop Ends,46,45,10
+2001-08-18,46,6j2aNuhJJUnRj6UHcvn5PI,Trick Daddy,Trick Daddy,I'm a Thug,I'm A Thug,58,46,5
+2001-08-18,47,2eOuL8KesslTLQERQPu11D,Diddy,"P. Diddy, Black Rob & Mark Curry",Bad Boy for Life,Bad Boy For Life,53,47,4
+2001-08-18,48,0Uyh92tLyb9JawG8lmWCzJ,Ginuwine,Ginuwine,Differences,Differences,57,48,4
+2001-08-18,49,3zjLEJ6EPYJHZRtWGMhMSJ,Montgomery Gentry,Montgomery Gentry,She Couldn't Change Me,She Couldn't Change Me,38,37,20
+2001-08-18,50,3sCTGhBAfmP3xFi7NTazxC,poppa,R. Kelly Featuring Jay-Z,R Kelly,Fiesta,43,6,21
+2001-08-18,51,0PSZ9G584Ve27GK6ThlY6P,Christina Aguilera,"Christina Aguilera, Lil' Kim, Mya & P!nk",Lady Marmalade - Single Edit,Lady Marmalade,34,1,19
+2001-08-18,52,6FLwmdmW77N1Pxb1aWsZmO,Enya,Enya,Only Time,Only Time,61,52,6
+2001-08-18,53,4XRUKxDIn28c7uHEzbGFgj,Backstreet Boys,Backstreet Boys,More Than That,More Than That,55,27,13
+2001-08-18,54,0YHBvFhfCJHyP5qfgtiX1o,Jaheim,Jaheim,Just in Case,Just In Case,56,54,8
+2001-08-18,55,0NdEFLohwfZpyncrBCq1ZY,Toya,Toya,I Do!!,I Do!!,54,32,12
+2001-08-18,56,7xwFOVYwBuLvFquLyfooRp,Ray J,Ray J Featuring Lil' Kim,Wait a Minute (feat. Lil' Kim),Wait A Minute,50,30,13
+2001-08-18,57,3e41nkMyqcAwaQCXJVj87G,Brooks & Dunn,Brooks & Dunn,Only In America,Only In America,60,57,5
+2001-08-18,58,0cHRuyr1YyvJXTCX5ZeqSO,Jo Dee Messina,Jo Dee Messina,Downtime,Downtime,59,58,10
+2001-08-18,59,1s2khOWzC99udpUaPICLJI,Faith Hill,Faith Hill,There You'll Be - 2007 Remaster,There You'll Be,52,10,13
+2001-08-18,60,2rsjgtDbLeSYttYBPL5L1m,Rascal Flatts,Rascal Flatts,While You Loved Me,While You Loved Me,68,60,8
+2001-08-18,61,49aUxrufliNDGj7MTm7pNU,Jill Scott,Jill Scott,The Way,The Way,67,61,7
+2001-08-18,62,7ktlRGfo8wQaruyZD8xCii,Chris Cagle,Chris Cagle,Laredo,Laredo,64,62,7
+2001-08-18,63,2onNmw7lzEoDRXl46jDO5O,Trisha Yearwood,Trisha Yearwood,I Would've Loved You Anyway,I Would've Loved You Anyway,74,63,3
+2001-08-18,64,5z5ao3FAaVwHk1g7xuOBcB,Fuel,Fuel,Bad Day,Bad Day,66,64,4
+2001-08-18,65,3PbHle8KhJp6GuO1jLdEmQ,3 Doors Down,3 Doors Down,Be Like That,Be Like That,65,65,4
+2001-08-18,66,0FpLfrOyHblbDlHUsrPN1N,Busta Rhymes,Violator Featuring Busta Rhymes,What's It Gonna Be?! (feat. Janet Jackson),What It Is,63,63,8
+2001-08-18,67,0rRboI6IRuGx56Dq3UdYY4,Afroman,Afroman,Because I Got High,Because I Got High,,67,1
+2001-08-18,68,55mJleti2WfWEFNFcBduhc,TOOL,Tool,Schism,Schism,72,68,9
+2001-08-18,69,4gM2BugovNf4bvXdjZODzG,Nelly Furtado,Nelly Furtado,Turn Off The Light,Turn Off The Light,,69,1
+2001-08-18,70,0khUsHfJrVCu3Pn4WuzNd5,Tim McGraw,Tim McGraw,Angry All The Time,Angry All The Time,,70,1
+2001-08-18,71,3TcoHf7nvC8RaDVdfIFjFR,Sara Evans,Sara Evans,I Could Not Ask for More,I Could Not Ask For More,75,35,18
+2001-08-18,72,2423gyT9B3zNqC9ZD8QfSu,Faith Evans,Faith Evans Featuring Carl Thomas,Can't Believe (feat. Carl Thomas),Can't Believe,69,56,16
+2001-08-18,73,0Jc8qF1mUPo1A96HE9QxZz,*NSYNC,'N Sync,Pop,Pop,62,19,12
+2001-08-18,74,44LFap7VrB4356vfbQOZHg,JUVENILE,Juvenile,Set It Off,Set It Off,76,74,2
+2001-08-18,75,2ydUT1pFhuLDnouelIv4WH,blink-182,Blink-182,The Rock Show,The Rock Show,71,71,4
+2001-08-18,76,23qDMWnwf8p0pr5slljB6i,Phil Vassar,Phil Vassar,Six-Pack Summer,Six-Pack Summer,78,76,2
+2001-08-18,77,7K4Aq4awgYvDKEJdEvvl4j,Fabolous,Fabolous Featuring Nate Dogg,Can't Deny It (feat. Nate Dogg),Can't Deny It,81,77,5
+2001-08-18,78,5rJRKtJzm7qacwYEjsKav6,Lee Ann Womack,Lee Ann Womack,Why They Call It Falling,Why They Call It Falling,80,78,5
+2001-08-18,79,57BrRMwf9LrcmuOsyGilwr,Linkin Park,Linkin Park,Crawling,Crawling,79,79,2
+2001-08-18,80,5LVTzrOs7Ban5EpU9XkGSW,The Delfonics,Dream,Hey! Love,This Is Me,70,39,15
+2001-08-18,81,6dJZY47RgBcd7A9pSsWL6S,Coo Coo Cal,Coo Coo Cal,My Projects,My Projects,93,81,3
+2001-08-18,82,2c7huQpWR29bcXrrvLcG2j,Aaliyah,Aaliyah Featuring Timbaland,We Need A Resolution (feat. Timbaland),We Need A Resolution,82,59,12
+2001-08-18,83,3dxDj8pDPlIHCIrUPXuCeG,Darude,Darude,Sandstorm,Sandstorm,84,83,5
+2001-08-18,84,3jZHJO0QAb8sbv71DXOD9J,Matchbox Twenty,matchbox twenty,Mad Season,Mad Season,83,48,16
+2001-08-18,85,0eEIBDavijQl5u7A4yBpSs,Ameritz Countdown Karaoke,Gigi D'Agostino,I'll Fly with You (L'amour Toujours) [In the Style of Gigi D'agostino] [Karaoke Version],I'll Fly With You (L'amour Toujours),89,85,3
+2001-08-18,86,4ukCThz76ZkKJzTlmDlKpa,Trick Pony,Trick Pony,On a Night Like This,On A Night Like This,91,86,4
+2001-08-18,87,154grZhOoDf2FDTnS2BpK6,Brad Paisley,Brad Paisley,Two People Fell in Love,Two People Fell In Love,73,51,17
+2001-08-18,88,02GwPAncasVL82yC7y2hmN,Petey Pablo,Petey Pablo,Raise Up,Raise Up,98,88,2
+2001-08-18,89,7fFCnttacpotkyhTOxKv14,Jennifer Lopez,Jennifer Lopez,Play,Play,86,18,20
+2001-08-18,90,6Jvx6HCj3wxWWIs90YqWXj,Nivea,Nivea,Don't Mess With The Radio,Don't Mess With The Radio,,90,1
+2001-08-18,91,0pm08BZksjfIZmXcPckvEc,Bow Wow,Lil Bow Wow,Ghetto Girls,Ghetto Girls,,91,1
+2001-08-18,92,55oovDrYcI8EzQxg7mHVrD,Lionel Richie,Lionel Richie,Angel - Metro Mix Radio Edit,Angel,94,70,16
+2001-08-18,93,3hfMKCMfKcKctpjtH0TB76,Gary Allan,Gary Allan,Right Where I Need To Be,Right Where I Need To Be,90,42,20
+2001-08-18,94,0Tl84qfow6Dv0PM60zoBhb,azul azul,Azul Azul,La Bomba,La Bomba,96,70,20
+2001-08-18,95,514AneEN1C63hmnVNC4dLJ,Samantha Mumba,Samantha Mumba,Baby Come On Over (This Is Our Night),"Baby, Come Over (This Is Our Night)",92,49,15
+2001-08-18,96,4ycTot7CIH1cQULltBNajo,Alan Jackson,Alan Jackson,When Somebody Loves You,When Somebody Loves You,95,52,17
+2001-08-18,97,22WlwTY6Y41bG3hIOMF4VO,Dante Thomas,Dante Thomas Featuring Pras,Miss California,Miss California,88,85,6
+2001-08-18,98,7dO7S7cAUqTUiVRqQ2v9zh,Babyface,Babyface,There She Goes,There She Goes,87,31,15
+2001-08-18,99,0s9A4pUBLw68E76vY8LU9K,Lil' Romeo,Lil' Romeo,My Baby,My Baby,85,3,14
+2001-08-18,100,3uMZMYC0GurzpeTf9QvPe0,Ian van Dahl,Ian Van Dahl Featuring Marsha,Castles In The Sky,Castles In The Sky,99,99,3
+2001-08-11,1,41nT1Sp6ChR65FbsdLlFHW,Destiny's Child,Destiny's Child,Bootylicious,Bootylicious,1,1,10
+2001-08-11,2,5fTFotLuBHdqoO4k8BnxET,Hot Fox Karaoke,Mariah Carey Featuring Cameo,Loverboy (In The Style Of 'Mariah Carey Featuring Cameo'),Loverboy,2,2,8
+2001-08-11,3,5ncKa5K5qxoRDIn5p7Qqmm,The Karaoke Crew,Eve Featuring Gwen Stefani,Let Me Blow Ya Mind (As Made Famous By Eve Featuring Gwen Stefani),Let Me Blow Ya Mind,6,3,16
+2001-08-11,4,4zYTZvtcww7OWKie7fxA9E,Blu Cantrell,Blu Cantrell,Hit 'Em Up Style (Oops!),Hit 'Em Up Style (Oops!),3,2,15
+2001-08-11,5,2QsZVnbWVSjKMXK6K3uRBL,Usher,Usher,U Remind Me,U Remind Me,5,1,9
+2001-08-11,6,0WdaRmHBMhUoLPqHLdb9yg,O-Town,O-Town,All or Nothing,All Or Nothing,4,3,10
+2001-08-11,7,0KQx6HOpJueiSkztcS0r7D,Alicia Keys,Alicia Keys,Fallin',Fallin',10,7,9
+2001-08-11,8,2hKdd3qO7cWr2Jo0Bcs0MA,Train,Train,Drops of Jupiter (Tell Me),Drops Of Jupiter (Tell Me),7,5,22
+2001-08-11,9,6MLsahMK3VvH9NUwXOktdS,Jennifer Lopez,Jennifer Lopez Featuring Ja Rule,I'm Real (feat. Ja Rule) - Murder Remix,I'm Real,12,9,6
+2001-08-11,10,2VbmTtZn6SdR33FGklXhVU,Off The Record Karaoke,Jagged Edge With Nelly,Where the Party at (In the Style of Jagged Edge - Nelly) [Karaoke Version With Lead Vocal],Where The Party At,11,10,11
+2001-08-11,11,0wqOReZDnrefefEsrIGeR4,Lifehouse,Lifehouse,Hanging By A Moment,Hanging By A Moment,8,2,27
+2001-08-11,12,4w9soAM7IrmYDhSXLp14p6,Jack Black,112,Peaches,Peaches & Cream,9,4,18
+2001-08-11,13,25CMmGsl22APKhfuj4Tp7j,Staind,Staind,It's Been Awhile,It's Been Awhile,13,13,18
+2001-08-11,14,43zr9kKkeiQrshvYuvNtfM,Janet Jackson,Janet,Someone To Call My Lover,Someone To Call My Lover,17,14,8
+2001-08-11,15,1tJkic0TURTCXw3rBhYgWu,City High,City High,What Would You Do?,What Would You Do?,15,8,21
+2001-08-11,16,5ZsPy9wHH733NlU6c4v2Hi,Sugar Ray,Sugar Ray,When It's Over - David Kahne Main,When It's Over,16,16,11
+2001-08-11,17,7nnWIPM5hwE3DaUBkvOIpy,Incubus,Incubus,Drive,Drive,14,9,26
+2001-08-11,18,0UzsDmdpw0Q14KU4hieQss,Craig David,Craig David,Fill Me In,Fill Me In,18,18,10
+2001-08-11,19,4Vx3lC2E2wr3ZlT7pA2jOT,D12,D12,Purple Hills,Purple Hills,19,19,8
+2001-08-11,20,0l8YY2QAbkXAUnhAs1RHUF,The Karaoke Channel,"Missy ""Misdemeanor"" Elliott","Get Ur Freak On (Radio Version) (Karaoke Version) - (In The Style Of Missy ""Misdemeanor"" Elliott)",Get Ur Freak On,20,7,21
+2001-08-11,21,2WQAknZHrJAEQOFXe0F44P,Blake Shelton,Blake Shelton,Austin,Austin,30,21,12
+2001-08-11,22,6f67kjvFmXZTA47K8JNVBU,Willa Ford,Willa Ford,I Wanna Be Bad,I Wanna Be Bad,22,22,10
+2001-08-11,23,2TVSa07y6g3HRn4oLWv57M,Jessica Simpson,Jessica Simpson,Irresistible,Irresistible,21,15,13
+2001-08-11,24,4KoecuyOpZaNFZ0UqVsllc,Uncle Kracker,Uncle Kracker,Follow Me,Follow Me,23,5,23
+2001-08-11,25,7teF2kwC3GL00mQfwtxzo9,The Isley Brothers,The Isley Brothers Featuring Ronald Isley,"For the Love of You, Pts. 1 & 2",Contagious,33,25,5
+2001-08-11,26,4nqhpXmbCksSZ1I1QUf8Ac,The Karaoke Crew,Nelly Featuring City Spud,Ride Wit Me (As Made Famous by Nelly Featuring City Spud),Ride Wit Me,25,3,25
+2001-08-11,27,4h5KBcltGefua73AUPYps7,JAY-Z,JAY-Z,Izzo (H.O.V.A.),Izzo (H.O.V.A.),40,27,3
+2001-08-11,28,65KzDXZm9aQt8sA1k0ZVG3,Dave Matthews Band,Dave Matthews Band,The Space Between,The Space Between,31,28,13
+2001-08-11,29,5ONjjxFYoBzp7v2PMHBAvT,ProTracks (Karaoke),"Missy ""Misdemeanor"" Elliott","One Minute Man - In the Style of Missy ""Misdemeanor"" Elliott (Karaoke Version Teaching Vocal)",One Minute Man,36,29,5
+2001-08-11,30,4tgeQrPu5xkrnwErym2JsJ,Eve 6,Eve 6,Here's to the Night,Here's To The Night,34,30,10
+2001-08-11,31,6IFOw9Ck9mWHRQgw6QrPYx,Erick Sermon,Erick Sermon Featuring Marvin Gaye,Music (feat. Marvin Gaye),Music,28,22,11
+2001-08-11,32,49XSbzWYyB20DTlBtQiZFw,J. Cozier,Jimmy Cozier,She's All I Got - Radio Edit,She's All I Got,27,26,9
+2001-08-11,33,751gBcu62kORDelX7FV0mM,Dido,Dido,Thank You,Thank You,35,3,31
+2001-08-11,34,0PSZ9G584Ve27GK6ThlY6P,Christina Aguilera,"Christina Aguilera, Lil' Kim, Mya & P!nk",Lady Marmalade - Single Edit,Lady Marmalade,24,1,18
+2001-08-11,35,6X1MOfJSjBT54VcbD1o7vR,Jamie O'Neal,Jamie O'Neal,When I Think About Angels,When I Think About Angels,38,35,10
+2001-08-11,36,650M98AP1WgRo1jJ0snmoI,Luther Vandross,Luther Vandross,Take You Out - Radio Edit,Take You Out,26,26,4
+2001-08-11,37,6KCOOKsDFfGEiwWZZlEI6O,Lil' Mo,Lil' Mo Featuring Fabolous,Superwoman Pt. II - Rap Version Remix,Superwoman Pt. II,29,11,20
+2001-08-11,38,3zjLEJ6EPYJHZRtWGMhMSJ,Montgomery Gentry,Montgomery Gentry,She Couldn't Change Me,She Couldn't Change Me,39,37,19
+2001-08-11,39,34Vn9nKfztyLco9lJazy4j,Lonestar,Lonestar,I'm Already There,I'm Already There,37,24,15
+2001-08-11,40,6CBRI05fAHw76JqDk2IRkK,Toby Keith,Toby Keith,I'm Just Talkin' About Tonight,I'm Just Talkin' About Tonight,44,40,9
+2001-08-11,41,1UkMAtLU8NxsddE7j4zXGO,American Hi-Fi,American Hi-Fi,Flavor Of The Weak,Flavor Of The Weak,41,41,8
+2001-08-11,42,3aw9iWUQ3VrPQltgwvN9Xu,Mary J. Blige,Mary J. Blige,Family Affair,Family Affair,53,42,3
+2001-08-11,43,3sCTGhBAfmP3xFi7NTazxC,poppa,R. Kelly Featuring Jay-Z,R Kelly,Fiesta,32,6,20
+2001-08-11,44,3lcC9CnN7Rpo1ugATzmYjY,Ludacris,Ludacris Featuring Nate Dogg,Area Codes,Area Codes,52,44,5
+2001-08-11,45,1RC5Mb0VhnlhnMlFDnrvE0,Smash Mouth,Smash Mouth,I'm A Believer - Radio Edit,I'm A Believer,56,45,4
+2001-08-11,46,7qLQR9T8vL638MbPYCDAFk,Keith Urban,Keith Urban,Where The Blacktop Ends,Where The Blacktop Ends,51,46,9
+2001-08-11,47,2YhdP9Wq1yH2pshQ6sWnHo,Cyndi Thomson,Cyndi Thomson,What I Really Meant To Say,What I Really Meant To Say,54,47,11
+2001-08-11,48,2aGw77pZqli064JiPuXYRi,Nelly Furtado,Nelly Furtado,I'm Like A Bird,I'm Like A Bird,42,9,24
+2001-08-11,49,5X8kkUaUlAyAUr9TYqDFTH,Janet Jackson,Janet,All For You,All For You,43,1,22
+2001-08-11,50,7xwFOVYwBuLvFquLyfooRp,Ray J,Ray J Featuring Lil' Kim,Wait a Minute (feat. Lil' Kim),Wait A Minute,50,30,12
+2001-08-11,51,0twRGRH1uG8XGH99X5R9V3,The Wiseguys,The Wiseguys,Start the Commotion,Start The Commotion,63,51,2
+2001-08-11,52,1s2khOWzC99udpUaPICLJI,Faith Hill,Faith Hill,There You'll Be - 2007 Remaster,There You'll Be,49,10,12
+2001-08-11,53,2eOuL8KesslTLQERQPu11D,Diddy,"P. Diddy, Black Rob & Mark Curry",Bad Boy for Life,Bad Boy For Life,60,53,3
+2001-08-11,54,0NdEFLohwfZpyncrBCq1ZY,Toya,Toya,I Do!!,I Do!!,46,32,11
+2001-08-11,55,4XRUKxDIn28c7uHEzbGFgj,Backstreet Boys,Backstreet Boys,More Than That,More Than That,45,27,12
+2001-08-11,56,0YHBvFhfCJHyP5qfgtiX1o,Jaheim,Jaheim,Just in Case,Just In Case,58,56,7
+2001-08-11,57,0Uyh92tLyb9JawG8lmWCzJ,Ginuwine,Ginuwine,Differences,Differences,75,57,3
+2001-08-11,58,6j2aNuhJJUnRj6UHcvn5PI,Trick Daddy,Trick Daddy,I'm a Thug,I'm A Thug,71,58,4
+2001-08-11,59,0cHRuyr1YyvJXTCX5ZeqSO,Jo Dee Messina,Jo Dee Messina,Downtime,Downtime,61,59,9
+2001-08-11,60,3e41nkMyqcAwaQCXJVj87G,Brooks & Dunn,Brooks & Dunn,Only In America,Only In America,69,60,4
+2001-08-11,61,6FLwmdmW77N1Pxb1aWsZmO,Enya,Enya,Only Time,Only Time,65,61,5
+2001-08-11,62,0Jc8qF1mUPo1A96HE9QxZz,*NSYNC,'N Sync,Pop,Pop,55,19,11
+2001-08-11,63,0FpLfrOyHblbDlHUsrPN1N,Busta Rhymes,Violator Featuring Busta Rhymes,What's It Gonna Be?! (feat. Janet Jackson),What It Is,67,63,7
+2001-08-11,64,7ktlRGfo8wQaruyZD8xCii,Chris Cagle,Chris Cagle,Laredo,Laredo,77,64,6
+2001-08-11,65,3PbHle8KhJp6GuO1jLdEmQ,3 Doors Down,3 Doors Down,Be Like That,Be Like That,72,65,3
+2001-08-11,66,5z5ao3FAaVwHk1g7xuOBcB,Fuel,Fuel,Bad Day,Bad Day,66,66,3
+2001-08-11,67,49aUxrufliNDGj7MTm7pNU,Jill Scott,Jill Scott,The Way,The Way,62,62,6
+2001-08-11,68,2rsjgtDbLeSYttYBPL5L1m,Rascal Flatts,Rascal Flatts,While You Loved Me,While You Loved Me,80,68,7
+2001-08-11,69,2423gyT9B3zNqC9ZD8QfSu,Faith Evans,Faith Evans Featuring Carl Thomas,Can't Believe (feat. Carl Thomas),Can't Believe,59,56,15
+2001-08-11,70,5LVTzrOs7Ban5EpU9XkGSW,The Delfonics,Dream,Hey! Love,This Is Me,64,39,14
+2001-08-11,71,2ydUT1pFhuLDnouelIv4WH,blink-182,Blink-182,The Rock Show,The Rock Show,74,71,3
+2001-08-11,72,55mJleti2WfWEFNFcBduhc,TOOL,Tool,Schism,Schism,78,68,8
+2001-08-11,73,154grZhOoDf2FDTnS2BpK6,Brad Paisley,Brad Paisley,Two People Fell in Love,Two People Fell In Love,57,51,16
+2001-08-11,74,2onNmw7lzEoDRXl46jDO5O,Trisha Yearwood,Trisha Yearwood,I Would've Loved You Anyway,I Would've Loved You Anyway,81,74,2
+2001-08-11,75,3TcoHf7nvC8RaDVdfIFjFR,Sara Evans,Sara Evans,I Could Not Ask for More,I Could Not Ask For More,73,35,17
+2001-08-11,76,44LFap7VrB4356vfbQOZHg,JUVENILE,Juvenile,Set It Off,Set It Off,,76,1
+2001-08-11,77,4RtDZMumlKxsN7IL3AJPUx,Tim McGraw,Tim McGraw,Grown Men Don't Cry,Grown Men Don't Cry,79,25,20
+2001-08-11,78,23qDMWnwf8p0pr5slljB6i,Phil Vassar,Phil Vassar,Six-Pack Summer,Six-Pack Summer,,78,1
+2001-08-11,79,57BrRMwf9LrcmuOsyGilwr,Linkin Park,Linkin Park,Crawling,Crawling,,79,1
+2001-08-11,80,5rJRKtJzm7qacwYEjsKav6,Lee Ann Womack,Lee Ann Womack,Why They Call It Falling,Why They Call It Falling,82,80,4
+2001-08-11,81,7K4Aq4awgYvDKEJdEvvl4j,Fabolous,Fabolous Featuring Nate Dogg,Can't Deny It (feat. Nate Dogg),Can't Deny It,88,81,4
+2001-08-11,82,2c7huQpWR29bcXrrvLcG2j,Aaliyah,Aaliyah Featuring Timbaland,We Need A Resolution (feat. Timbaland),We Need A Resolution,68,59,11
+2001-08-11,83,3jZHJO0QAb8sbv71DXOD9J,Matchbox Twenty,matchbox twenty,Mad Season,Mad Season,84,48,15
+2001-08-11,84,3dxDj8pDPlIHCIrUPXuCeG,Darude,Darude,Sandstorm,Sandstorm,92,84,4
+2001-08-11,85,0s9A4pUBLw68E76vY8LU9K,Lil' Romeo,Lil' Romeo,My Baby,My Baby,76,3,13
+2001-08-11,86,7fFCnttacpotkyhTOxKv14,Jennifer Lopez,Jennifer Lopez,Play,Play,83,18,19
+2001-08-11,87,7dO7S7cAUqTUiVRqQ2v9zh,Babyface,Babyface,There She Goes,There She Goes,70,31,14
+2001-08-11,88,22WlwTY6Y41bG3hIOMF4VO,Dante Thomas,Dante Thomas Featuring Pras,Miss California,Miss California,85,85,5
+2001-08-11,89,0eEIBDavijQl5u7A4yBpSs,Ameritz Countdown Karaoke,Gigi D'Agostino,I'll Fly with You (L'amour Toujours) [In the Style of Gigi D'agostino] [Karaoke Version],I'll Fly With You (L'amour Toujours),95,89,2
+2001-08-11,90,3hfMKCMfKcKctpjtH0TB76,Gary Allan,Gary Allan,Right Where I Need To Be,Right Where I Need To Be,89,42,19
+2001-08-11,91,4ukCThz76ZkKJzTlmDlKpa,Trick Pony,Trick Pony,On a Night Like This,On A Night Like This,97,91,3
+2001-08-11,92,514AneEN1C63hmnVNC4dLJ,Samantha Mumba,Samantha Mumba,Baby Come On Over (This Is Our Night),"Baby, Come Over (This Is Our Night)",94,49,14
+2001-08-11,93,6dJZY47RgBcd7A9pSsWL6S,Coo Coo Cal,Coo Coo Cal,My Projects,My Projects,98,93,2
+2001-08-11,94,55oovDrYcI8EzQxg7mHVrD,Lionel Richie,Lionel Richie,Angel - Metro Mix Radio Edit,Angel,100,70,15
+2001-08-11,95,4ycTot7CIH1cQULltBNajo,Alan Jackson,Alan Jackson,When Somebody Loves You,When Somebody Loves You,87,52,16
+2001-08-11,96,0Tl84qfow6Dv0PM60zoBhb,azul azul,Azul Azul,La Bomba,La Bomba,96,70,19
+2001-08-11,97,3NJQ1KdbMLE1CEEVNjs9IO,Tyrese,Tyrese,I Like Them Girls,I Like Them Girls,91,48,19
+2001-08-11,98,02GwPAncasVL82yC7y2hmN,Petey Pablo,Petey Pablo,Raise Up,Raise Up,,98,1
+2001-08-11,99,3uMZMYC0GurzpeTf9QvPe0,Ian van Dahl,Ian Van Dahl Featuring Marsha,Castles In The Sky,Castles In The Sky,99,99,2
+2001-08-11,100,1PmJcgLwG1wRC5qMdjogRD,George Strait,George Strait,If You Can Do Anything Else,If You Can Do Anything Else,93,51,18
+2001-08-04,1,41nT1Sp6ChR65FbsdLlFHW,Destiny's Child,Destiny's Child,Bootylicious,Bootylicious,7,1,9
+2001-08-04,2,5fTFotLuBHdqoO4k8BnxET,Hot Fox Karaoke,Mariah Carey Featuring Cameo,Loverboy (In The Style Of 'Mariah Carey Featuring Cameo'),Loverboy,60,2,7
+2001-08-04,3,4zYTZvtcww7OWKie7fxA9E,Blu Cantrell,Blu Cantrell,Hit 'Em Up Style (Oops!),Hit 'Em Up Style (Oops!),2,2,14
+2001-08-04,4,0WdaRmHBMhUoLPqHLdb9yg,O-Town,O-Town,All or Nothing,All Or Nothing,3,3,9
+2001-08-04,5,2QsZVnbWVSjKMXK6K3uRBL,Usher,Usher,U Remind Me,U Remind Me,1,1,8
+2001-08-04,6,5ncKa5K5qxoRDIn5p7Qqmm,The Karaoke Crew,Eve Featuring Gwen Stefani,Let Me Blow Ya Mind (As Made Famous By Eve Featuring Gwen Stefani),Let Me Blow Ya Mind,4,3,15
+2001-08-04,7,2hKdd3qO7cWr2Jo0Bcs0MA,Train,Train,Drops of Jupiter (Tell Me),Drops Of Jupiter (Tell Me),6,5,21
+2001-08-04,8,0wqOReZDnrefefEsrIGeR4,Lifehouse,Lifehouse,Hanging By A Moment,Hanging By A Moment,8,2,26
+2001-08-04,9,4w9soAM7IrmYDhSXLp14p6,Jack Black,112,Peaches,Peaches & Cream,5,4,17
+2001-08-04,10,0KQx6HOpJueiSkztcS0r7D,Alicia Keys,Alicia Keys,Fallin',Fallin',14,10,8
+2001-08-04,11,2VbmTtZn6SdR33FGklXhVU,Off The Record Karaoke,Jagged Edge With Nelly,Where the Party at (In the Style of Jagged Edge - Nelly) [Karaoke Version With Lead Vocal],Where The Party At,11,11,10
+2001-08-04,12,6MLsahMK3VvH9NUwXOktdS,Jennifer Lopez,Jennifer Lopez Featuring Ja Rule,I'm Real (feat. Ja Rule) - Murder Remix,I'm Real,19,12,5
+2001-08-04,13,25CMmGsl22APKhfuj4Tp7j,Staind,Staind,It's Been Awhile,It's Been Awhile,13,13,17
+2001-08-04,14,7nnWIPM5hwE3DaUBkvOIpy,Incubus,Incubus,Drive,Drive,9,9,25
+2001-08-04,15,1tJkic0TURTCXw3rBhYgWu,City High,City High,What Would You Do?,What Would You Do?,10,8,20
+2001-08-04,16,5ZsPy9wHH733NlU6c4v2Hi,Sugar Ray,Sugar Ray,When It's Over - David Kahne Main,When It's Over,16,16,10
+2001-08-04,17,43zr9kKkeiQrshvYuvNtfM,Janet Jackson,Janet,Someone To Call My Lover,Someone To Call My Lover,17,17,7
+2001-08-04,18,0UzsDmdpw0Q14KU4hieQss,Craig David,Craig David,Fill Me In,Fill Me In,18,18,9
+2001-08-04,19,4Vx3lC2E2wr3ZlT7pA2jOT,D12,D12,Purple Hills,Purple Hills,20,19,7
+2001-08-04,20,0l8YY2QAbkXAUnhAs1RHUF,The Karaoke Channel,"Missy ""Misdemeanor"" Elliott","Get Ur Freak On (Radio Version) (Karaoke Version) - (In The Style Of Missy ""Misdemeanor"" Elliott)",Get Ur Freak On,15,7,20
+2001-08-04,21,2TVSa07y6g3HRn4oLWv57M,Jessica Simpson,Jessica Simpson,Irresistible,Irresistible,21,15,12
+2001-08-04,22,6f67kjvFmXZTA47K8JNVBU,Willa Ford,Willa Ford,I Wanna Be Bad,I Wanna Be Bad,27,22,9
+2001-08-04,23,4KoecuyOpZaNFZ0UqVsllc,Uncle Kracker,Uncle Kracker,Follow Me,Follow Me,23,5,22
+2001-08-04,24,0PSZ9G584Ve27GK6ThlY6P,Christina Aguilera,"Christina Aguilera, Lil' Kim, Mya & P!nk",Lady Marmalade - Single Edit,Lady Marmalade,12,1,17
+2001-08-04,25,4nqhpXmbCksSZ1I1QUf8Ac,The Karaoke Crew,Nelly Featuring City Spud,Ride Wit Me (As Made Famous by Nelly Featuring City Spud),Ride Wit Me,22,3,24
+2001-08-04,26,650M98AP1WgRo1jJ0snmoI,Luther Vandross,Luther Vandross,Take You Out - Radio Edit,Take You Out,31,26,3
+2001-08-04,27,49XSbzWYyB20DTlBtQiZFw,J. Cozier,Jimmy Cozier,She's All I Got - Radio Edit,She's All I Got,26,26,8
+2001-08-04,28,6IFOw9Ck9mWHRQgw6QrPYx,Erick Sermon,Erick Sermon Featuring Marvin Gaye,Music (feat. Marvin Gaye),Music,25,22,10
+2001-08-04,29,6KCOOKsDFfGEiwWZZlEI6O,Lil' Mo,Lil' Mo Featuring Fabolous,Superwoman Pt. II - Rap Version Remix,Superwoman Pt. II,24,11,19
+2001-08-04,30,2WQAknZHrJAEQOFXe0F44P,Blake Shelton,Blake Shelton,Austin,Austin,33,30,11
+2001-08-04,31,65KzDXZm9aQt8sA1k0ZVG3,Dave Matthews Band,Dave Matthews Band,The Space Between,The Space Between,35,31,12
+2001-08-04,32,3sCTGhBAfmP3xFi7NTazxC,poppa,R. Kelly Featuring Jay-Z,R Kelly,Fiesta,28,6,19
+2001-08-04,33,7teF2kwC3GL00mQfwtxzo9,The Isley Brothers,The Isley Brothers Featuring Ronald Isley,"For the Love of You, Pts. 1 & 2",Contagious,41,33,4
+2001-08-04,34,4tgeQrPu5xkrnwErym2JsJ,Eve 6,Eve 6,Here's to the Night,Here's To The Night,30,30,9
+2001-08-04,35,751gBcu62kORDelX7FV0mM,Dido,Dido,Thank You,Thank You,29,3,30
+2001-08-04,36,5ONjjxFYoBzp7v2PMHBAvT,ProTracks (Karaoke),"Missy ""Misdemeanor"" Elliott","One Minute Man - In the Style of Missy ""Misdemeanor"" Elliott (Karaoke Version Teaching Vocal)",One Minute Man,49,36,4
+2001-08-04,37,34Vn9nKfztyLco9lJazy4j,Lonestar,Lonestar,I'm Already There,I'm Already There,32,24,14
+2001-08-04,38,6X1MOfJSjBT54VcbD1o7vR,Jamie O'Neal,Jamie O'Neal,When I Think About Angels,When I Think About Angels,42,38,9
+2001-08-04,39,3zjLEJ6EPYJHZRtWGMhMSJ,Montgomery Gentry,Montgomery Gentry,She Couldn't Change Me,She Couldn't Change Me,37,37,18
+2001-08-04,40,4h5KBcltGefua73AUPYps7,JAY-Z,JAY-Z,Izzo (H.O.V.A.),Izzo (H.O.V.A.),59,40,2
+2001-08-04,41,1UkMAtLU8NxsddE7j4zXGO,American Hi-Fi,American Hi-Fi,Flavor Of The Weak,Flavor Of The Weak,43,41,7
+2001-08-04,42,2aGw77pZqli064JiPuXYRi,Nelly Furtado,Nelly Furtado,I'm Like A Bird,I'm Like A Bird,40,9,23
+2001-08-04,43,5X8kkUaUlAyAUr9TYqDFTH,Janet Jackson,Janet,All For You,All For You,39,1,21
+2001-08-04,44,6CBRI05fAHw76JqDk2IRkK,Toby Keith,Toby Keith,I'm Just Talkin' About Tonight,I'm Just Talkin' About Tonight,44,44,8
+2001-08-04,45,4XRUKxDIn28c7uHEzbGFgj,Backstreet Boys,Backstreet Boys,More Than That,More Than That,34,27,11
+2001-08-04,46,0NdEFLohwfZpyncrBCq1ZY,Toya,Toya,I Do!!,I Do!!,45,32,10
+2001-08-04,47,2f5N826udWfjT9iomeaBJt,Matchbox Twenty,matchbox twenty,If You're Gone,If You're Gone,48,5,42
+2001-08-04,48,65B1tEOv5W294uCKbmEcFV,Lee Ann Womack,Lee Ann Womack,I Hope You Dance,I Hope You Dance,46,14,48
+2001-08-04,49,1s2khOWzC99udpUaPICLJI,Faith Hill,Faith Hill,There You'll Be - 2007 Remaster,There You'll Be,38,10,11
+2001-08-04,50,7xwFOVYwBuLvFquLyfooRp,Ray J,Ray J Featuring Lil' Kim,Wait a Minute (feat. Lil' Kim),Wait A Minute,36,30,11
+2001-08-04,51,7qLQR9T8vL638MbPYCDAFk,Keith Urban,Keith Urban,Where The Blacktop Ends,Where The Blacktop Ends,51,51,8
+2001-08-04,52,3lcC9CnN7Rpo1ugATzmYjY,Ludacris,Ludacris Featuring Nate Dogg,Area Codes,Area Codes,55,52,4
+2001-08-04,53,3aw9iWUQ3VrPQltgwvN9Xu,Mary J. Blige,Mary J. Blige,Family Affair,Family Affair,76,53,2
+2001-08-04,54,2YhdP9Wq1yH2pshQ6sWnHo,Cyndi Thomson,Cyndi Thomson,What I Really Meant To Say,What I Really Meant To Say,54,54,10
+2001-08-04,55,0Jc8qF1mUPo1A96HE9QxZz,*NSYNC,'N Sync,Pop,Pop,47,19,10
+2001-08-04,56,1RC5Mb0VhnlhnMlFDnrvE0,Smash Mouth,Smash Mouth,I'm A Believer - Radio Edit,I'm A Believer,63,56,3
+2001-08-04,57,154grZhOoDf2FDTnS2BpK6,Brad Paisley,Brad Paisley,Two People Fell in Love,Two People Fell In Love,52,51,15
+2001-08-04,58,0YHBvFhfCJHyP5qfgtiX1o,Jaheim,Jaheim,Just in Case,Just In Case,58,58,6
+2001-08-04,59,2423gyT9B3zNqC9ZD8QfSu,Faith Evans,Faith Evans Featuring Carl Thomas,Can't Believe (feat. Carl Thomas),Can't Believe,56,56,14
+2001-08-04,60,2eOuL8KesslTLQERQPu11D,Diddy,"P. Diddy, Black Rob & Mark Curry",Bad Boy for Life,Bad Boy For Life,70,60,2
+2001-08-04,61,0cHRuyr1YyvJXTCX5ZeqSO,Jo Dee Messina,Jo Dee Messina,Downtime,Downtime,62,59,8
+2001-08-04,62,49aUxrufliNDGj7MTm7pNU,Jill Scott,Jill Scott,The Way,The Way,67,62,5
+2001-08-04,63,0twRGRH1uG8XGH99X5R9V3,The Wiseguys,The Wiseguys,Start the Commotion,Start The Commotion,,63,1
+2001-08-04,64,5LVTzrOs7Ban5EpU9XkGSW,The Delfonics,Dream,Hey! Love,This Is Me,57,39,13
+2001-08-04,65,6FLwmdmW77N1Pxb1aWsZmO,Enya,Enya,Only Time,Only Time,65,65,4
+2001-08-04,66,5z5ao3FAaVwHk1g7xuOBcB,Fuel,Fuel,Bad Day,Bad Day,73,66,2
+2001-08-04,67,0FpLfrOyHblbDlHUsrPN1N,Busta Rhymes,Violator Featuring Busta Rhymes,What's It Gonna Be?! (feat. Janet Jackson),What It Is,75,66,6
+2001-08-04,68,2c7huQpWR29bcXrrvLcG2j,Aaliyah,Aaliyah Featuring Timbaland,We Need A Resolution (feat. Timbaland),We Need A Resolution,61,59,10
+2001-08-04,69,3e41nkMyqcAwaQCXJVj87G,Brooks & Dunn,Brooks & Dunn,Only In America,Only In America,69,69,3
+2001-08-04,70,7dO7S7cAUqTUiVRqQ2v9zh,Babyface,Babyface,There She Goes,There She Goes,53,31,13
+2001-08-04,71,6j2aNuhJJUnRj6UHcvn5PI,Trick Daddy,Trick Daddy,I'm a Thug,I'm A Thug,91,71,3
+2001-08-04,72,3PbHle8KhJp6GuO1jLdEmQ,3 Doors Down,3 Doors Down,Be Like That,Be Like That,72,72,2
+2001-08-04,73,3TcoHf7nvC8RaDVdfIFjFR,Sara Evans,Sara Evans,I Could Not Ask for More,I Could Not Ask For More,66,35,16
+2001-08-04,74,2ydUT1pFhuLDnouelIv4WH,blink-182,Blink-182,The Rock Show,The Rock Show,74,74,2
+2001-08-04,75,0Uyh92tLyb9JawG8lmWCzJ,Ginuwine,Ginuwine,Differences,Differences,79,75,2
+2001-08-04,76,0s9A4pUBLw68E76vY8LU9K,Lil' Romeo,Lil' Romeo,My Baby,My Baby,50,3,12
+2001-08-04,77,7ktlRGfo8wQaruyZD8xCii,Chris Cagle,Chris Cagle,Laredo,Laredo,71,71,5
+2001-08-04,78,55mJleti2WfWEFNFcBduhc,TOOL,Tool,Schism,Schism,68,68,7
+2001-08-04,79,4RtDZMumlKxsN7IL3AJPUx,Tim McGraw,Tim McGraw,Grown Men Don't Cry,Grown Men Don't Cry,64,25,19
+2001-08-04,80,2rsjgtDbLeSYttYBPL5L1m,Rascal Flatts,Rascal Flatts,While You Loved Me,While You Loved Me,77,76,6
+2001-08-04,81,2onNmw7lzEoDRXl46jDO5O,Trisha Yearwood,Trisha Yearwood,I Would've Loved You Anyway,I Would've Loved You Anyway,,81,1
+2001-08-04,82,5rJRKtJzm7qacwYEjsKav6,Lee Ann Womack,Lee Ann Womack,Why They Call It Falling,Why They Call It Falling,81,81,3
+2001-08-04,83,7fFCnttacpotkyhTOxKv14,Jennifer Lopez,Jennifer Lopez,Play,Play,78,18,18
+2001-08-04,84,3jZHJO0QAb8sbv71DXOD9J,Matchbox Twenty,matchbox twenty,Mad Season,Mad Season,85,48,14
+2001-08-04,85,22WlwTY6Y41bG3hIOMF4VO,Dante Thomas,Dante Thomas Featuring Pras,Miss California,Miss California,89,85,4
+2001-08-04,86,1CP0DS790dxOfCXXp7WHDP,Ja Rule,Ja Rule Featuring Lil' Mo,I Cry,I Cry,93,40,14
+2001-08-04,87,4ycTot7CIH1cQULltBNajo,Alan Jackson,Alan Jackson,When Somebody Loves You,When Somebody Loves You,80,52,15
+2001-08-04,88,7K4Aq4awgYvDKEJdEvvl4j,Fabolous,Fabolous Featuring Nate Dogg,Can't Deny It (feat. Nate Dogg),Can't Deny It,97,88,3
+2001-08-04,89,3hfMKCMfKcKctpjtH0TB76,Gary Allan,Gary Allan,Right Where I Need To Be,Right Where I Need To Be,87,42,18
+2001-08-04,90,6CMr41ezXYJT0nTfT9trMh,Tyrese,Snoop Dogg Featuring Tyrese & Mr. Tan,Just A Baby Boy - Radio Edit,Just A Baby Boy,90,90,4
+2001-08-04,91,3NJQ1KdbMLE1CEEVNjs9IO,Tyrese,Tyrese,I Like Them Girls,I Like Them Girls,82,48,18
+2001-08-04,92,3dxDj8pDPlIHCIrUPXuCeG,Darude,Darude,Sandstorm,Sandstorm,92,92,3
+2001-08-04,93,1PmJcgLwG1wRC5qMdjogRD,George Strait,George Strait,If You Can Do Anything Else,If You Can Do Anything Else,84,51,17
+2001-08-04,94,514AneEN1C63hmnVNC4dLJ,Samantha Mumba,Samantha Mumba,Baby Come On Over (This Is Our Night),"Baby, Come Over (This Is Our Night)",83,49,13
+2001-08-04,95,0eEIBDavijQl5u7A4yBpSs,Ameritz Countdown Karaoke,Gigi D'Agostino,I'll Fly with You (L'amour Toujours) [In the Style of Gigi D'agostino] [Karaoke Version],I'll Fly With You (L'amour Toujours),,95,1
+2001-08-04,96,0Tl84qfow6Dv0PM60zoBhb,azul azul,Azul Azul,La Bomba,La Bomba,88,70,18
+2001-08-04,97,4ukCThz76ZkKJzTlmDlKpa,Trick Pony,Trick Pony,On a Night Like This,On A Night Like This,98,97,2
+2001-08-04,98,6dJZY47RgBcd7A9pSsWL6S,Coo Coo Cal,Coo Coo Cal,My Projects,My Projects,,98,1
+2001-08-04,99,3uMZMYC0GurzpeTf9QvPe0,Ian van Dahl,Ian Van Dahl Featuring Marsha,Castles In The Sky,Castles In The Sky,,99,1
+2001-08-04,100,55oovDrYcI8EzQxg7mHVrD,Lionel Richie,Lionel Richie,Angel - Metro Mix Radio Edit,Angel,94,70,14
+2001-07-28,1,2QsZVnbWVSjKMXK6K3uRBL,Usher,Usher,U Remind Me,U Remind Me,1,1,7
+2001-07-28,2,4zYTZvtcww7OWKie7fxA9E,Blu Cantrell,Blu Cantrell,Hit 'Em Up Style (Oops!),Hit 'Em Up Style (Oops!),2,2,13
+2001-07-28,3,0WdaRmHBMhUoLPqHLdb9yg,O-Town,O-Town,All or Nothing,All Or Nothing,9,3,8
+2001-07-28,4,5ncKa5K5qxoRDIn5p7Qqmm,The Karaoke Crew,Eve Featuring Gwen Stefani,Let Me Blow Ya Mind (As Made Famous By Eve Featuring Gwen Stefani),Let Me Blow Ya Mind,3,3,14
+2001-07-28,5,4w9soAM7IrmYDhSXLp14p6,Jack Black,112,Peaches,Peaches & Cream,4,4,16
+2001-07-28,6,2hKdd3qO7cWr2Jo0Bcs0MA,Train,Train,Drops of Jupiter (Tell Me),Drops Of Jupiter (Tell Me),6,5,20
+2001-07-28,7,41nT1Sp6ChR65FbsdLlFHW,Destiny's Child,Destiny's Child,Bootylicious,Bootylicious,8,7,8
+2001-07-28,8,0wqOReZDnrefefEsrIGeR4,Lifehouse,Lifehouse,Hanging By A Moment,Hanging By A Moment,5,2,25
+2001-07-28,9,7nnWIPM5hwE3DaUBkvOIpy,Incubus,Incubus,Drive,Drive,10,9,24
+2001-07-28,10,1tJkic0TURTCXw3rBhYgWu,City High,City High,What Would You Do?,What Would You Do?,12,8,19
+2001-07-28,11,2VbmTtZn6SdR33FGklXhVU,Off The Record Karaoke,Jagged Edge With Nelly,Where the Party at (In the Style of Jagged Edge - Nelly) [Karaoke Version With Lead Vocal],Where The Party At,13,11,9
+2001-07-28,12,0PSZ9G584Ve27GK6ThlY6P,Christina Aguilera,"Christina Aguilera, Lil' Kim, Mya & P!nk",Lady Marmalade - Single Edit,Lady Marmalade,7,1,16
+2001-07-28,13,25CMmGsl22APKhfuj4Tp7j,Staind,Staind,It's Been Awhile,It's Been Awhile,15,13,16
+2001-07-28,14,0KQx6HOpJueiSkztcS0r7D,Alicia Keys,Alicia Keys,Fallin',Fallin',30,14,7
+2001-07-28,15,0l8YY2QAbkXAUnhAs1RHUF,The Karaoke Channel,"Missy ""Misdemeanor"" Elliott","Get Ur Freak On (Radio Version) (Karaoke Version) - (In The Style Of Missy ""Misdemeanor"" Elliott)",Get Ur Freak On,11,7,19
+2001-07-28,16,5ZsPy9wHH733NlU6c4v2Hi,Sugar Ray,Sugar Ray,When It's Over - David Kahne Main,When It's Over,21,16,9
+2001-07-28,17,43zr9kKkeiQrshvYuvNtfM,Janet Jackson,Janet,Someone To Call My Lover,Someone To Call My Lover,17,17,6
+2001-07-28,18,0UzsDmdpw0Q14KU4hieQss,Craig David,Craig David,Fill Me In,Fill Me In,19,18,8
+2001-07-28,19,6MLsahMK3VvH9NUwXOktdS,Jennifer Lopez,Jennifer Lopez Featuring Ja Rule,I'm Real (feat. Ja Rule) - Murder Remix,I'm Real,25,19,4
+2001-07-28,20,4Vx3lC2E2wr3ZlT7pA2jOT,D12,D12,Purple Hills,Purple Hills,23,20,6
+2001-07-28,21,2TVSa07y6g3HRn4oLWv57M,Jessica Simpson,Jessica Simpson,Irresistible,Irresistible,18,15,11
+2001-07-28,22,4nqhpXmbCksSZ1I1QUf8Ac,The Karaoke Crew,Nelly Featuring City Spud,Ride Wit Me (As Made Famous by Nelly Featuring City Spud),Ride Wit Me,14,3,23
+2001-07-28,23,4KoecuyOpZaNFZ0UqVsllc,Uncle Kracker,Uncle Kracker,Follow Me,Follow Me,16,5,21
+2001-07-28,24,6KCOOKsDFfGEiwWZZlEI6O,Lil' Mo,Lil' Mo Featuring Fabolous,Superwoman Pt. II - Rap Version Remix,Superwoman Pt. II,20,11,18
+2001-07-28,25,6IFOw9Ck9mWHRQgw6QrPYx,Erick Sermon,Erick Sermon Featuring Marvin Gaye,Music (feat. Marvin Gaye),Music,24,22,9
+2001-07-28,26,49XSbzWYyB20DTlBtQiZFw,J. Cozier,Jimmy Cozier,She's All I Got - Radio Edit,She's All I Got,26,26,7
+2001-07-28,27,6f67kjvFmXZTA47K8JNVBU,Willa Ford,Willa Ford,I Wanna Be Bad,I Wanna Be Bad,34,27,8
+2001-07-28,28,3sCTGhBAfmP3xFi7NTazxC,poppa,R. Kelly Featuring Jay-Z,R Kelly,Fiesta,22,6,18
+2001-07-28,29,751gBcu62kORDelX7FV0mM,Dido,Dido,Thank You,Thank You,29,3,29
+2001-07-28,30,4tgeQrPu5xkrnwErym2JsJ,Eve 6,Eve 6,Here's to the Night,Here's To The Night,33,30,8
+2001-07-28,31,650M98AP1WgRo1jJ0snmoI,Luther Vandross,Luther Vandross,Take You Out - Radio Edit,Take You Out,38,31,2
+2001-07-28,32,34Vn9nKfztyLco9lJazy4j,Lonestar,Lonestar,I'm Already There,I'm Already There,31,24,13
+2001-07-28,33,2WQAknZHrJAEQOFXe0F44P,Blake Shelton,Blake Shelton,Austin,Austin,42,33,10
+2001-07-28,34,4XRUKxDIn28c7uHEzbGFgj,Backstreet Boys,Backstreet Boys,More Than That,More Than That,27,27,10
+2001-07-28,35,65KzDXZm9aQt8sA1k0ZVG3,Dave Matthews Band,Dave Matthews Band,The Space Between,The Space Between,39,35,11
+2001-07-28,36,7xwFOVYwBuLvFquLyfooRp,Ray J,Ray J Featuring Lil' Kim,Wait a Minute (feat. Lil' Kim),Wait A Minute,32,30,10
+2001-07-28,37,3zjLEJ6EPYJHZRtWGMhMSJ,Montgomery Gentry,Montgomery Gentry,She Couldn't Change Me,She Couldn't Change Me,37,37,17
+2001-07-28,38,1s2khOWzC99udpUaPICLJI,Faith Hill,Faith Hill,There You'll Be - 2007 Remaster,There You'll Be,28,10,10
+2001-07-28,39,5X8kkUaUlAyAUr9TYqDFTH,Janet Jackson,Janet,All For You,All For You,40,1,20
+2001-07-28,40,2aGw77pZqli064JiPuXYRi,Nelly Furtado,Nelly Furtado,I'm Like A Bird,I'm Like A Bird,36,9,22
+2001-07-28,41,7teF2kwC3GL00mQfwtxzo9,The Isley Brothers,The Isley Brothers Featuring Ronald Isley,"For the Love of You, Pts. 1 & 2",Contagious,54,41,3
+2001-07-28,42,6X1MOfJSjBT54VcbD1o7vR,Jamie O'Neal,Jamie O'Neal,When I Think About Angels,When I Think About Angels,43,42,8
+2001-07-28,43,1UkMAtLU8NxsddE7j4zXGO,American Hi-Fi,American Hi-Fi,Flavor Of The Weak,Flavor Of The Weak,47,43,6
+2001-07-28,44,6CBRI05fAHw76JqDk2IRkK,Toby Keith,Toby Keith,I'm Just Talkin' About Tonight,I'm Just Talkin' About Tonight,49,44,7
+2001-07-28,45,0NdEFLohwfZpyncrBCq1ZY,Toya,Toya,I Do!!,I Do!!,46,32,9
+2001-07-28,46,65B1tEOv5W294uCKbmEcFV,Lee Ann Womack,Lee Ann Womack,I Hope You Dance,I Hope You Dance,44,14,47
+2001-07-28,47,0Jc8qF1mUPo1A96HE9QxZz,*NSYNC,'N Sync,Pop,Pop,41,19,9
+2001-07-28,48,2f5N826udWfjT9iomeaBJt,Matchbox Twenty,matchbox twenty,If You're Gone,If You're Gone,48,5,41
+2001-07-28,49,5ONjjxFYoBzp7v2PMHBAvT,ProTracks (Karaoke),"Missy ""Misdemeanor"" Elliott","One Minute Man - In the Style of Missy ""Misdemeanor"" Elliott (Karaoke Version Teaching Vocal)",One Minute Man,55,49,3
+2001-07-28,50,0s9A4pUBLw68E76vY8LU9K,Lil' Romeo,Lil' Romeo,My Baby,My Baby,35,3,11
+2001-07-28,51,7qLQR9T8vL638MbPYCDAFk,Keith Urban,Keith Urban,Where The Blacktop Ends,Where The Blacktop Ends,53,51,7
+2001-07-28,52,154grZhOoDf2FDTnS2BpK6,Brad Paisley,Brad Paisley,Two People Fell in Love,Two People Fell In Love,51,51,14
+2001-07-28,53,7dO7S7cAUqTUiVRqQ2v9zh,Babyface,Babyface,There She Goes,There She Goes,45,31,12
+2001-07-28,54,2YhdP9Wq1yH2pshQ6sWnHo,Cyndi Thomson,Cyndi Thomson,What I Really Meant To Say,What I Really Meant To Say,58,54,9
+2001-07-28,55,3lcC9CnN7Rpo1ugATzmYjY,Ludacris,Ludacris Featuring Nate Dogg,Area Codes,Area Codes,70,55,3
+2001-07-28,56,2423gyT9B3zNqC9ZD8QfSu,Faith Evans,Faith Evans Featuring Carl Thomas,Can't Believe (feat. Carl Thomas),Can't Believe,60,56,13
+2001-07-28,57,5LVTzrOs7Ban5EpU9XkGSW,The Delfonics,Dream,Hey! Love,This Is Me,67,39,12
+2001-07-28,58,0YHBvFhfCJHyP5qfgtiX1o,Jaheim,Jaheim,Just in Case,Just In Case,65,58,5
+2001-07-28,59,4h5KBcltGefua73AUPYps7,JAY-Z,JAY-Z,Izzo (H.O.V.A.),Izzo (H.O.V.A.),,59,1
+2001-07-28,60,5fTFotLuBHdqoO4k8BnxET,Hot Fox Karaoke,Mariah Carey Featuring Cameo,Loverboy (In The Style Of 'Mariah Carey Featuring Cameo'),Loverboy,61,55,6
+2001-07-28,61,2c7huQpWR29bcXrrvLcG2j,Aaliyah,Aaliyah Featuring Timbaland,We Need A Resolution (feat. Timbaland),We Need A Resolution,64,59,9
+2001-07-28,62,0cHRuyr1YyvJXTCX5ZeqSO,Jo Dee Messina,Jo Dee Messina,Downtime,Downtime,59,59,7
+2001-07-28,63,1RC5Mb0VhnlhnMlFDnrvE0,Smash Mouth,Smash Mouth,I'm A Believer - Radio Edit,I'm A Believer,78,63,2
+2001-07-28,64,4RtDZMumlKxsN7IL3AJPUx,Tim McGraw,Tim McGraw,Grown Men Don't Cry,Grown Men Don't Cry,52,25,18
+2001-07-28,65,6FLwmdmW77N1Pxb1aWsZmO,Enya,Enya,Only Time,Only Time,68,65,3
+2001-07-28,66,3TcoHf7nvC8RaDVdfIFjFR,Sara Evans,Sara Evans,I Could Not Ask for More,I Could Not Ask For More,50,35,15
+2001-07-28,67,49aUxrufliNDGj7MTm7pNU,Jill Scott,Jill Scott,The Way,The Way,73,67,4
+2001-07-28,68,55mJleti2WfWEFNFcBduhc,TOOL,Tool,Schism,Schism,71,68,6
+2001-07-28,69,3e41nkMyqcAwaQCXJVj87G,Brooks & Dunn,Brooks & Dunn,Only In America,Only In America,77,69,2
+2001-07-28,70,2eOuL8KesslTLQERQPu11D,Diddy,"P. Diddy, Black Rob & Mark Curry",Bad Boy for Life,Bad Boy For Life,,70,1
+2001-07-28,71,7ktlRGfo8wQaruyZD8xCii,Chris Cagle,Chris Cagle,Laredo,Laredo,74,71,4
+2001-07-28,72,3PbHle8KhJp6GuO1jLdEmQ,3 Doors Down,3 Doors Down,Be Like That,Be Like That,,72,1
+2001-07-28,73,5z5ao3FAaVwHk1g7xuOBcB,Fuel,Fuel,Bad Day,Bad Day,,73,1
+2001-07-28,74,2ydUT1pFhuLDnouelIv4WH,blink-182,Blink-182,The Rock Show,The Rock Show,,74,1
+2001-07-28,75,0FpLfrOyHblbDlHUsrPN1N,Busta Rhymes,Violator Featuring Busta Rhymes,What's It Gonna Be?! (feat. Janet Jackson),What It Is,66,66,5
+2001-07-28,76,3aw9iWUQ3VrPQltgwvN9Xu,Mary J. Blige,Mary J. Blige,Family Affair,Family Affair,,76,1
+2001-07-28,77,2rsjgtDbLeSYttYBPL5L1m,Rascal Flatts,Rascal Flatts,While You Loved Me,While You Loved Me,76,76,5
+2001-07-28,78,7fFCnttacpotkyhTOxKv14,Jennifer Lopez,Jennifer Lopez,Play,Play,72,18,17
+2001-07-28,79,0Uyh92tLyb9JawG8lmWCzJ,Ginuwine,Ginuwine,Differences,Differences,,79,1
+2001-07-28,80,4ycTot7CIH1cQULltBNajo,Alan Jackson,Alan Jackson,When Somebody Loves You,When Somebody Loves You,56,52,14
+2001-07-28,81,5rJRKtJzm7qacwYEjsKav6,Lee Ann Womack,Lee Ann Womack,Why They Call It Falling,Why They Call It Falling,81,81,2
+2001-07-28,82,3NJQ1KdbMLE1CEEVNjs9IO,Tyrese,Tyrese,I Like Them Girls,I Like Them Girls,75,48,17
+2001-07-28,83,514AneEN1C63hmnVNC4dLJ,Samantha Mumba,Samantha Mumba,Baby Come On Over (This Is Our Night),"Baby, Come Over (This Is Our Night)",84,49,12
+2001-07-28,84,1PmJcgLwG1wRC5qMdjogRD,George Strait,George Strait,If You Can Do Anything Else,If You Can Do Anything Else,62,51,16
+2001-07-28,85,3jZHJO0QAb8sbv71DXOD9J,Matchbox Twenty,matchbox twenty,Mad Season,Mad Season,83,48,13
+2001-07-28,86,2Mpj1Ul5OFPyyP4wB62Rvi,Destiny's Child,Destiny's Child,Survivor,Survivor,80,2,20
+2001-07-28,87,3hfMKCMfKcKctpjtH0TB76,Gary Allan,Gary Allan,Right Where I Need To Be,Right Where I Need To Be,85,42,17
+2001-07-28,88,0Tl84qfow6Dv0PM60zoBhb,azul azul,Azul Azul,La Bomba,La Bomba,87,70,17
+2001-07-28,89,22WlwTY6Y41bG3hIOMF4VO,Dante Thomas,Dante Thomas Featuring Pras,Miss California,Miss California,89,89,3
+2001-07-28,90,6CMr41ezXYJT0nTfT9trMh,Tyrese,Snoop Dogg Featuring Tyrese & Mr. Tan,Just A Baby Boy - Radio Edit,Just A Baby Boy,90,90,3
+2001-07-28,91,6j2aNuhJJUnRj6UHcvn5PI,Trick Daddy,Trick Daddy,I'm a Thug,I'm A Thug,99,91,2
+2001-07-28,92,3dxDj8pDPlIHCIrUPXuCeG,Darude,Darude,Sandstorm,Sandstorm,92,92,2
+2001-07-28,93,1CP0DS790dxOfCXXp7WHDP,Ja Rule,Ja Rule Featuring Lil' Mo,I Cry,I Cry,82,40,13
+2001-07-28,94,55oovDrYcI8EzQxg7mHVrD,Lionel Richie,Lionel Richie,Angel - Metro Mix Radio Edit,Angel,86,70,13
+2001-07-28,95,3NjAxulzcqR9riwzAnoN7p,St. Lunatics,St. Lunatics,Midwest Swing,Midwest Swing,88,88,5
