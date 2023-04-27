@@ -149,7 +149,7 @@ def get_track_popularity(token):
             next(datareader)
             group_number = 0
             while True:
-                next_100_tracks = [x.rstrip('\n') for x in itertools.islice(track_list, 3)]
+                next_100_tracks = [x.rstrip('\n') for x in itertools.islice(track_list, 50)]
                 if not next_100_tracks:
                     break
 
