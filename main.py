@@ -8,6 +8,7 @@ import time
 import itertools
 import sys
 
+
 load_dotenv()
 
 client_id = os.getenv("CLIENT_ID")
@@ -68,7 +69,6 @@ def search_for_track(token, track_name, artist):
         print("Whole Result: ", result)
         print("Result Headers: ", result.headers)
         return 401
-        sys.exit()
 
     if result.status_code != 200 and result.status_code != 429:
         print(f"Ran into a {result.status_code}, with track = {track_name} and artist = {artist}.")
@@ -95,17 +95,51 @@ def search_for_track(token, track_name, artist):
 
     return json_result[0]
 
-#def get_track_info(track_id):
+def get_track_info(token):
+    with open('distinct_track_ids.csv', 'r') as track_list:
+        with open('track_features_1.csv', 'w') as features_file:
+            values = ['danceability', 'energy', 'key', 'loudness', 'mode', 'speechiness', 'acousticness', 'instrumentalness', 'liveness', 'valence', 'tempo', 'type', 'id', 'uri', 'track_href', 'analysis_url', 'duration_ms', 'time_signature']
+            datareader = csv.reader(track_list)
+            writer = csv.DictWriter(features_file, fieldnames=values)
+            writer.writeheader()
+            next(datareader)
+            group_number = 0
+            while True:
+                next_100_tracks = [x.rstrip('\n') for x in itertools.islice(track_list, 100)]
+                if not next_100_tracks:
+                    break
+
+                # process next_n_lines
+                first_track = next_100_tracks[0]
+                last_track = next_100_tracks[-1]
+                print(f"Retrieving group {group_number} ; tracks {first_track} through {last_track}")
+                time.sleep(0.5) # just trying to avoid a 429
+
+                track_query_string = ",".join(map(str, next_100_tracks))
+                url = "https://api.spotify.com/v1/audio-features"
+                headers = get_auth_header(token)
+                #query = f"?q=name={track_name}year={year}artist={artist}&type=track&limit=1"
+
+                query = f"?ids={track_query_string}"
+                print("query: ", query)
+
+                query_url = url + query
+                result = get(query_url, headers=headers)
+
+                json_result = json.loads(result.content)
+                feature_set = json_result["audio_features"]
+                for track_features in feature_set:
+                    if track_features == None: 
+                        continue
+                    else:                        
+                        print(track_features)
+                        writer.writerow(track_features)
+
+                group_number += 1   # should have like 285 groups?
 
 
-def main():
-    token = get_token()
-    # result = search_for_track(token, "Hot Line", "The Sylvers") # used to take a year as input
-    # track_id = result["id"]
-    # title = result["name"]
-    # artist = result["artists"][0]["name"]
-    # print("track id: ", track_id, "; title: ", title, "; artist: ", artist)
-
+def get_track_ids(token):
+    
     # don't need to retrieve songs more than once
     retrieved_songs = {}
 
@@ -183,6 +217,17 @@ def main():
                                          })
                     retrieved_songs[(given_title, given_artist)] = (track_id, spotify_artist, spotify_title)
                 print(row)
+
+def main():
+    token = get_token()
+    # result = search_for_track(token, "Hot Line", "The Sylvers") # used to take a year as input
+    # track_id = result["id"]
+    # title = result["name"]
+    # artist = result["artists"][0]["name"]
+    # print("track id: ", track_id, "; title: ", title, "; artist: ", artist)
+
+    #get_track_ids(token)
+    get_track_info(token)
 
 if __name__ == "__main__":
     main()
