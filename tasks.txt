@@ -4,9 +4,12 @@
     - time series for each of the traits
     - correlation of "weeks on board" and each traits
     - correlation of "peak rank" and each traits
+    - correlation of "spotify popularity" with each traits
     - correlation matrix between each pair of song traits
     - histograms of the traits by decade (e.g. "what's the average danceability of the top songs in the 1970s?")
     - https://towardsdatascience.com/k-means-clustering-using-spotify-song-features-9eb7d53d105c
-    - color coding songs by genre over time to see if certain genre rises to the top?
+    - radar/spider charts (i.e. what makes a hit? https://towardsdatascience.com/what-makes-a-song-likeable-dbfdb7abe404)
+        - https://www8.gsb.columbia.edu/articles/projects/what-makes-a-hit/
     - unsupervised learning:
-        - cluster songs
+        - cluster songs based on traits (https://tomasezequielrau.medium.com/clustering-forecasting-spotify-songs-audio-features-5b2c21f0a6b9)
+        - what cluster has "staying power"? i.e. it's popularity is still high even though it's 20+ years old?
