@@ -187,6 +187,106 @@ def get_track_popularity(token):
 
                 group_number += 1   # should have like 285 groups?
 
+def get_artists(token):
+    with open('distinct_track_ids.csv', 'r') as track_list:
+        with open('track_artists.csv', 'w') as write_file:
+            values = ['track_id', 'artist_id']
+            datareader = csv.reader(track_list)
+            writer = csv.DictWriter(write_file, fieldnames=values)
+            writer.writeheader()
+            next(datareader)
+            group_number = 0
+            while True:
+                next_100_tracks = [x.rstrip('\n') for x in itertools.islice(track_list, 50)]
+                if not next_100_tracks:
+                    break
+
+                # process next_n_lines
+                first_track = next_100_tracks[0]
+                last_track = next_100_tracks[-1]
+                print(f"Retrieving group {group_number} ; tracks {first_track} through {last_track}")
+                time.sleep(0.5) # just trying to avoid a 429
+
+                track_query_string = ",".join(map(str, next_100_tracks))
+                url = "https://api.spotify.com/v1/tracks"
+                headers = get_auth_header(token)
+                #query = f"?q=name={track_name}year={year}artist={artist}&type=track&limit=1"
+
+                query = f"?ids={track_query_string}"
+                #print("query: ", query)
+
+                query_url = url + query
+                result = get(query_url, headers=headers)
+                json_result = json.loads(result.content)
+                #print(json_result)
+                tracks = json_result["tracks"]
+                for track in tracks:
+                    if track == None: 
+                        continue
+                    else:                        
+                        #print(track["popularity"])
+                        artists = track["artists"]
+                        id = track["id"]
+                        for artist in artists:
+                            artist_id = artist["id"]
+                            print(f"id = {id}; artist = {artist_id}")
+                            writer.writerow({
+                                                "track_id": id, 
+                                                "artist_id": artist_id
+                                             })
+
+                group_number += 1   # should have about 600 groups?
+
+
+
+def get_artist_genres(token):
+    with open('distinct_artists.csv', 'r') as artist_list:
+        with open('artist_genres.csv', 'w') as write_file:
+            values = ['artist_id', 'genres']
+            datareader = csv.reader(artist_list)
+            writer = csv.DictWriter(write_file, fieldnames=values)
+            writer.writeheader()
+            next(datareader)
+            group_number = 0
+            while True:
+                next_100_tracks = [x.rstrip('\n') for x in itertools.islice(artist_list, 50)]
+                if not next_100_tracks:
+                    break
+
+                # process next_n_lines
+                first_track = next_100_tracks[0]
+                last_track = next_100_tracks[-1]
+                print(f"Retrieving group {group_number} ; artists {first_track} through {last_track}")
+                time.sleep(0.5) # just trying to avoid a 429
+
+                track_query_string = ",".join(map(str, next_100_tracks))
+                url = "https://api.spotify.com/v1/artists"
+                headers = get_auth_header(token)
+                #query = f"?q=name={track_name}year={year}artist={artist}&type=track&limit=1"
+
+                query = f"?ids={track_query_string}"
+                #print("query: ", query)
+
+                query_url = url + query
+                result = get(query_url, headers=headers)
+                json_result = json.loads(result.content)
+                # print(json_result)
+                artists = json_result["artists"]
+                for artist in artists:
+                    #print(artist)
+                    if artist == None: 
+                        continue
+                    else:                        
+                        #print(track["popularity"])
+                        genres = artist["genres"]
+                        artist_id = artist["id"]
+                        print(f"artist_id = {artist_id}; genres = {genres}")
+                        writer.writerow({
+                                            "artist_id": artist_id, 
+                                            "genres": genres
+                                            })
+
+                group_number += 1   # should have about 600 groups?
 
 def get_track_ids(token):
     
@@ -278,7 +378,9 @@ def main():
 
     #get_track_ids(token)
     #get_track_info(token)
-    get_track_popularity(token)
+    # get_track_popularity(token)
+    # get_artists(token)
+    get_artist_genres(token)
 
 if __name__ == "__main__":
     main()

@@ -1,5 +1,6 @@
 import pandas as pd
-import pandasql as ps
+from pandasql import sqldf
+pysqldf = lambda q: sqldf(q, globals())
 
 # data = pd.read_csv("demo.csv")
 # data = data.set_index("id")
@@ -13,12 +14,13 @@ import pandasql as ps
 # filtered = ps.sqldf(sql_query, locals())
 # print(filtered)
 
-data = pd.read_csv("new_tracks_with_spotify_ids_2.csv")
+data = pd.read_csv("track_artists.csv")
 
 print(data)
 
 sql_query = """
-            SELECT DISTINCT track_id FROM data
+            SELECT DISTINCT artist_id FROM data
             """
-filtered = ps.sqldf(sql_query, locals())
+filtered = pysqldf(sql_query)
 print(filtered)
+filtered.to_csv('distinct_artists.csv', encoding='utf-8', index=False)

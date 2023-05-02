@@ -44,22 +44,3 @@ initial_sql_query = """
 
 initial_load = pysqldf(initial_sql_query)
 print(initial_load)
-#initial_load.to_csv('charts_with_features_id_and_popularity.csv', encoding='utf-8', index=False)
-
-### CREATE THE TIME SERIES PLOTS ###
-# fig, axs = plt.subplots(2, 2, figsize=(10, 10))
-# sns.lineplot(ax=axs[0, 0], x="year", y="danceability", data=initial_load)
-# axs[0, 0].set_title('Danceability')
-# sns.lineplot(ax=axs[0, 1], x="year", y="energy", data=initial_load)
-# axs[0, 1].set_title('Energy')
-# sns.lineplot(ax=axs[1, 0], x="year", y="loudness", data=initial_load)
-# axs[1, 0].set_title('Loudness')
-# sns.lineplot(ax=axs[1, 1], x="year", y="speechiness", data=initial_load)
-# axs[1, 1].set_title('Speechiness')
-
-# for ax in axs.flat:
-#     ax.set(xlabel='Year')
-
-# fig.tight_layout(pad=3.0)
-
-# plt.savefig("test_plot_6")
